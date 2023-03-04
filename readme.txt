@@ -2,8 +2,7 @@
 2. Install Python
 3. Extract System Files folder from the zip
 4. Open command prompt as admin and run the following commands at your command prompt: 
-cd /path/to/your/extracted/System Files
-cd All source files
+cd /path/to/your/extracted
 chatbot_env\Scripts\activate
 pip install -r requirements.txt
 python preprocessmethods.py
@@ -36,8 +35,7 @@ Uncomment the code below to get the classification report.
 print(classification_report(Y_test, Y_pred_label, zero_division = 0))
 
 1. Open command prompt as admin and run the following commands at your command prompt:
-cd /path/to/your/extracted/System Files
-cd Process Files
+cd /path/to/your/extracted
 chatbot_env\Scripts\activate
 pip install -r requirements.txt
 python preprocessmethods.py
