@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="static/main.css">
+    <title>Home</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap" rel="stylesheet">
+    <div class="header-container">
+        <a href = "home.html"> <img src="/static/logo2.png" alt="Help Center" width="170px" height=auto>  </a>
+    </div>
+    <div class="sessionloggedin">
+
+        User Name/Nama Pengguna/用户名 : <strong>{{session.name}} | <a href="{{ url_for('logout') }}">Logout</a></strong>
+    </div>
+
+</head>
+<body>
+    <div class="banner-area">
+        <div class="content-area">
+           <div class="content">
+            <h1>Welcome, {{session.name}}! </h1>
+            <h1>Selamat datang, {{session.name}}! </h1>
+            <h1>欢迎, {{session.name}}! </h1>
+
+              
+              
+              <button class="btn"onclick="document.location='{{ url_for('ENSVM') }}'">Start chatting with SVM</button>
+              <button class="btn"onclick="document.location='{{ url_for('BMSVM') }}'">Berbual dengan SVM</button>
+              <button class="btn"onclick="document.location='{{ url_for('CNSVM') }}'">开始您和SVM的对话</button>
+              <button class="btn"onclick="document.location='{{ url_for('ENMNB') }}'">Start chatting with MNB</button>
+              <button class="btn"onclick="document.location='{{ url_for('BMMNB') }}'">Berbual dengan MNB</button>
+              <button class="btn"onclick="document.location='{{ url_for('CNMNB') }}'">开始您和MNB的对话</button>
+           </div>
+        </div>
+    </div>
+      
+</body>
+</html>

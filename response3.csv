@@ -1,0 +1,1828 @@
+Intents,Responses
+search_how,"Enter your destination, travel dates, and number of guests, then click or tap Search.
+Filters can help narrow options (ex: price range). Click or tap More filters to view all available filters.
+Scroll through the listings or use the map to find listings in a specific location.
+Click or tap a listing to open it. Read the description, check the available amenities, review the house rules, and read reviews that other guests have left for the Host.
+You can also search for neighborhoods, landmarks, and more. Got a question about a place you have in mind? Message the Host."
+search_map,The map is a quick way to review the listings in relation to areas of interest. You can zoom in or move around the map to find additional listings that don’t appear at first.
+search_filter_type,"At the top of the search results page, you’ll find popular filters, such as:
+
+Type of place: From shared rooms to entire places, learn more about the types of places to stay.
+Unique listings: Choose from options like lighthouses, cabins, or boats.
+Price: Use the sliding scale to narrow down your search within your price range.
+Cancellation flexibility:? Think your plans may change? Find stays whose cancellation policies offer flexibility.
+Instant Book: Find places you can book without waiting for Host approval.
+Rooms and beds: Bedrooms, bathrooms, beds—choose the number that’s right for your group.
+Property type: It's your stay, so what's your vibe? Search for villas, hostels, apartments, and more.
+Unique stays: Go ahead, live the dream! Search for treehouses, yurts, or even castles.
+Amenities: Some people need a working kitchen, others want a TV, and the rest want free parking. Choose what you need to be comfortable. 
+Facilities: Pool? Gym? You’ve got options.
+Accessibility: Need step-free entry or grab bars in the shower? Select features for comfort and safety.
+Host language: Choose Hosts who speak a language you know.
+House rules: Do you want somewhere that allows pets? Are you planning on having any local visitors during your stay? Search for places with rules that suit you."
+search_filter,"Sometimes you just want to browse. Other times, you know exactly what you want. Search filters are a great way to narrow down your choices when you’re finding a place to stay."
+search_categories_general,"Bags are packed and not sure where to go? If guests need inspiration, they can browse Airbnb Categories—collections based on a stay’s unique style, location, or proximity to an activity—to help them find the stay (and style) that’s right for them. Guests can discover more flexible ways to travel—browsing millions of homes they never knew existed. If a guest searches for a specific destination, their search results will include all listings. In addition, Categories will be displayed, making it even easier to discover incredible homes within (or just beyond) their search area."
+search_cancellation_policy,"Even the best-laid plans can change. Airbnb Hosts get that, which is why many of them offer plenty of time to cancel your reservation penalty-free if something comes up.
+
+Now you can find listings with more flexible cancellation policies by using our search filter. You can search for listings that offer a full refund if you end up needing to cancel, even if it’s close to your departure date.
+
+To use this filter, simply enter your destination and travel dates. On the listings page you can select the cancellation filter to show only listings that offer:
+
+A full refund of nightly rate if you cancel at least 1 day prior to arrival, or,
+A full refund of nightly rate if you cancel at least 5 days prior to arrival
+You can see the specific cancellation policy your Host has set on their listing before you book which will tell you what date you need to cancel by to avoid any penalties."
+search_category,"If a guest searches for a specific destination, their search results will include all listings. In addition, Categories will be displayed, making it even easier to discover incredible homes within (or just beyond) their search area.
+
+If they don’t search for a specific destination, a selection of Categories may appear depending on seasons, location, and any previous guest searches."
+search_split,"Want to split longer stays between two different homes?
+
+Guests can try using Split Stays—a feature that pairs two consecutive stays for the span of their dates, allowing them to explore different homes, neighborhoods, or even different destinations, during their trip.
+
+For example, if they’re browsing the Surfing category, Split Stays may show them a pair of homes in Santa Barbara and La Jolla, and then display the distance between both stays on a map so they’ll know where both homes are (and which stay is first). Once they select a Split Stay, they’re guided through an easy-to-use interface to book each stay—one home at a time."
+search_neighbourhood,"You can search for a specific neighborhood, landmark, or street the same way you would for a city—by typing it into the Location field. (ex: “Sagrada Familia, Barcelona” or “Lombard Street, San Francisco”.) You’ll also find neighborhoods and local points of interest identified on the map in your search results"
+listing_availability,"As long as you enter your destination, travel dates, and number of guests when searching on Airbnb, all listings that appear should be available.
+
+You can also consider messaging the Host to confirm availability, along with any other details. We encourage Hosts to keep their calendars up to date, but it doesn’t hurt to check."
+listing_type,"Entire place
+Entire places are best if you're seeking a home away from home. With an entire place, you'll have the whole space to yourself. This usually includes a bedroom, a bathroom, a kitchen, and a separate, dedicated entrance. Hosts should note in the description if they'll be on the property or not (ex: ""Host occupies first floor of the home""), and provide further details on the listing.
+
+Private rooms
+Private rooms are great when you prefer a little privacy, yet still value a local connection. When you book a private room, you'll have your own private room for sleeping and may share some spaces with others. You might need to walk through indoor spaces that another host or guest may occupy to get to your room.
+
+Hotel rooms
+Whether private or shared, hotel rooms provide a level of service and hospitality associated with traditional hotels. The rooms are available in boutique or lifestyle hotels, hostels, bed and breakfasts, or similar properties. They typically include vibrant common areas and rooms with unique touches.
+
+Shared rooms
+Shared rooms are for when you don't mind sharing a space with others. When you book a shared room, you'll be sleeping in a space that is shared with others and share the entire space with other people. Shared rooms are popular among flexible travelers looking for new friends and budget-friendly stays."
+listing_selfcheck,"Self check-in means guests can access a place without needing the Host to be there. Any time after their designated check-in time on their arrival date, guests can conveniently gain access via:
+
+A key lockbox
+A smartlock
+A keypad
+A key or access via the building staff, such as a doorperson or front desk attendant, who must be available 24/7 to do so"
+listing_instant,"Instant Book listings allow you to book immediately without needing to send a request to the Host for approval, provided you’ve completed your account setup.
+
+There’s no additional fee, and it’s especially convenient for last-minute trips. Simply filter your search to show only Instant Book listings and book away!"
+listing_tag,"When browsing the reviews for a particular listing, you may notice that some reviews contain tags identifying the type of stay a guest had. These tags were designed to help you find reviews that may be relevant for your trip.
+
+The tags that you may find on listings are:
+
+LONG STAY: stays where the guest(s) stayed for at least 28 days
+WEEKEND TRIP: reviews of weekend stays that started on a Friday or Saturday and ended on a Sunday
+LAST MINUTE TRIP: any stays booked less than 2 days in advance
+GROUP TRIP: reviews of stays with at least 4 adults and no children or infants
+FAMILY TRIP: review of stays with at least one child or infant.
+These tags may or may not be displayed depending on the search options you’ve chosen for your particular stay."
+listing_wifi,"To find out the wifi speed at a listing:
+
+Go to the What this place offers section
+Next to Wifi, you’ll find the download speed in Mbps. If the wifi is greater than 50 Mbps, you’ll see Fast wifi instead of Wifi
+If you go to Show all amenities and scroll to the Internet and office section, next to Wifi, you’ll see more details about what activities different speeds can generally support"
+listing_monthly,"Listings that are highlighted in the Monthly stays section of Airbnb meet these criteria.
+
+To accept longer stays, the listings must be available for bookings of 28 days or more.
+
+These listings have been outfitted with amenities that accommodate longer trips, including:
+
+kitchen,
+wifi,
+essentials (toilet paper, soap, towels, bed linens, and pillows),
+discounted monthly pricing and deferred payments,
+staying for 28 nights or more opens up new discounted rates for your stay. Listings that are included in Monthly stays must either provide a discount for or be priced exclusively for 28 days or longer.
+
+Guests staying for 28 days or longer are able to pay for their stay on a monthly basis."
+listing_nonrefund,"A non-refundable option is a discount that lets you book at a lower price but can’t be canceled for a full refund unless you have an extenuating circumstance. Hosts can offer it on top of other discounts like monthly or weekly discounts.
+
+The discounted price is the one you’ll see in search results and will be available for booking until:
+
+1 day before desired check-in for Flexible cancellation listings
+5 days before desired check-in for Moderate cancellation listings
+14 days before desired check-in for Strict cancellation listings"
+listing_license,"Some cities require Hosts to obtain a license or registration number to list their places on Airbnb. The corresponding field on their listing allows them to show that number for compliance. 
+
+Not every city requires this, so the absence of a registration number does not mean the Host is not compliant—they’re just not required to register. 
+
+Instead of number, you might find another message in that field:  
+
+City registration pending: The Host has started the registration process but hasn’t been granted a license or registration number yet—it’s totally fine to book these listings 
+Exempt: The listing is exempt from registration for reasons determined by the city—these listings are also perfectly fine to book"
+wishlist_save,"We’ll help you keep track of all the wonderful things you discover on Airbnb. Simply click or tap the Heart  on any Experience or place to stay that you want to keep top of mind.
+
+You’ll have the option to create and name a new wishlist or add it to an existing wishlist.
+"
+wishlist_share,"Click your Profile and go to your Wishlist?
+Select the wishlist you want to share
+Click the three dots 
+Click Send invite and choose how you want to share your wishlist
+To remove access to the wishlist, select the person’s profile picture in the list and click or tap Remove."
+wishlist_share_friend,"You can invite someone to the wishlist by sending them an email or sms, or via social media, or just by copying a link. One thing to note: Anyone with a link to your wishlist can view it. However, those who view it won’t see your name as the Wishlist author and can't add or remove Airbnb listings from the wishlist."
+wishlist_share_display,"You can invite someone to the wishlist by sending them an email or sms, or via social media, or just by copying a link. One thing to note: Anyone with a link to your wishlist can view it. However, those who view it won’t see your name as the Wishlist author and can't add or remove Airbnb listings from the wishlist."
+wishlist_remove,"Click your Profile and go to your Wishlist?
+Select the wishlist you want to share
+Click the three dots 
+Click Delete this wishlist, confirm your choice and then click Delete"
+book_new,"It’s tempting to go straight into search, but first things first: Complete your profile. This gives potential Hosts a chance to learn about you while reviewing your trip requests. Be sure to verify your ID and include a profile photo, too—some Hosts require them.
+
+When searching for a place, include your dates and number of guests to get the most accurate pricing.
+
+Carefully review the following for each listing:
+
+Description
+Photos
+Reviews
+House rules
+Amenities
+Cancellation policy
+Feel free to message the Host with any additional questions—they’ll typically respond within 24 hours.
+
+Once you’ve settled on a place, book it! Each Host has their own style: Some are happy to let you book instantly, while others require you to send a request for approval. Learn how to book and what to expect."
+book_ff,"You can’t book on their behalf unless you're staying together. 
+
+We require all personal travel reservations to be booked by the guests themselves because Hosts rely on reading their profiles, reviews, and other verifications during the approval process."
+book_work,"If your company is enrolled in Airbnb for Work, you can designate people to book trips on behalf of others."
+book_visit,"To help ensure the safety and privacy of guests and Hosts, complete your booking before asking to visit. We only release contact information after reservations are confirmed.
+
+Additionally, be sure to keep all booking, messaging, and financial transactions directly on the Airbnb website or app.
+
+There are plenty of ways to get a clear idea of a place without visiting the property:
+
+Review the listing carefully and message the Host with specific questions
+Check out their profile verifications
+Read reviews for more detail
+Browse verified photos"
+book_split,"Split stays is a feature that allows you to split longer stays between 2 different listings. Each split stay pairs 2 consecutive stays for the span of your dates, allowing you to explore different listings, neighborhoods, or even different destinations, during your trip.
+
+When searching for a stay with dates of a week or more, split stays automatically appear at the end of your search results in the All listings category if there are less than 300 listings that meet your search criteria. Just scroll down to see a range of options to split your trip between 2 listings that are relatively close to each other."
+book_splithow,"Click on a split stay card in your result.
+It will open up a similar listing experience and you'll be able to click into each of the 2 listings presented on the same screen. You'll be able to see all of the details of each listing as you normally would.
+Click into either of the listings and start the checkout process.
+Complete the checkout process for the first listing. Once that listing is reserved, you’ll be guided to complete the second listing."
+book_splitTC,"If you only want to book one of the listings in the stay, you can complete the checkout for one of the listings and then exit the checkout for the other listing.
+The first listing will remain reserved under your account. You can then choose to search for alternative listings for your remaining dates.
+Split stays do not allow you to edit the dates during the checkout process. If you want to edit the dates, you can open up that listing separately, adjust those dates, and book that listing separately as you normally would. You’ll be removed from the split stay option."
+book_beforeb,"Introduce yourself. Share your bio in your profile and verify your identity. Hosts like to know who you are and might be more likely to accept your request.
+Make sure it’s a match. Examine the photos, reviews, and house rules to ensure the space and hosting style suit your needs.
+Say hello. Feel free to contact the Host with any questions."
+book_beforet,"Talk to your Host. Communicate your expectations and special needs clearly.
+Give them a heads up. Let them know if you’re likely to be late for check-in."
+book_after,"Leave a review. Always leave an honest review for your Host. They’ll be invited to do the same for you.
+Be constructive. Let them know what you liked, what needs work, and don't hesitate to sing their praises if you want to!"
+aircover,"AirCover protects you from many issues that might come up during your stay—like the heat going out in winter—but it doesn’t include more minor inconveniences, like a broken toaster. 
+
+If an issue does come up during your stay, we recommend you reach out to your Host first to see if they can readily resolve it. If they can’t, you have 72 hours from when you first discover the problem to contact us and we’ll look into it. If we find the issue is protected by AirCover, we’ll get you a full or partial refund, or, depending on the circumstances, find you a similar or better place to stay."
+aircover_rule,"AirCover is a comprehensive protection program included for free with every booking. It includes our Rebooking and Refund Policy, a dedicated 24-hour Safety Line, and other kinds of essential support.
+
+AirCover protects you from high severity travel issues that could come up during your stay, including:
+
+If your Host cancels your reservation within 30 days of your check-in date
+If you can’t get into your listing, and your Host can’t help you get in
+If the Host, another person, or a pet is in the space during your stay, and it wasn’t mentioned in the listing description
+If the listing is uninhabitable at check-in because of cleanliness, safety, or health reasons
+If the listing description wasn’t accurate about significant things. For example, if the home is missing major advertised amenities (like a refrigerator), it’s a different type of home, or it has the wrong number of bedrooms
+If an issue does come up during your stay, you’ll first need to reach out to your Host to see if they can easily resolve it. If they can’t, just contact us within 72 hours of discovering the problem. If we find the issue is protected by AirCover, we’ll get you a full or partial refund, or, depending on the circumstances, find you a similar or better place to stay."
+book_requirements,"Before booking a stay or an Experience, we may ask for a government ID or that you verify your identity. We will need to know some basic information—which we don't share with Hosts or anybody else. We also encourage profile photos, and some Hosts may require them, but profile photo's aren't displayed until after a booking is confirmed.
+
+We need your:
+
+Full name
+Email address
+Confirmed phone number
+Payment information
+Your Host may ask for: 
+
+Brief introductory message 
+Agreement to house rules"
+age_requirement,"We all love to wander the world, but it’s against our Terms of Service for anyone under the age of 18 to create an account to travel or host.
+"
+child_travel,"Many of our Hosts pride themselves on creating spaces for memorable family vacations. And some Hosts specify that their space may not be safe or suitable for children or infants. Everything should be in the listing details, but feel free to message the Host if you have questions. 
+
+Let the Host know who’s coming—including infants and children—when making a trip request. While infants (children under 2 years old) don’t often incur any extra costs, some Hosts count children as guests, which can add an additional guest fee to the reservation."
+accesibility_animal,"Service Animal: A dog or miniature horse that is individually trained to do work or perform tasks for people with disabilities.
+
+What we allow:
+Guests are allowed to be accompanied by service animals during a stay or Experience and are not required to disclose the presence of a service animal before booking. A Host may qualify for an exemption in certain circumstances — for instance, if the service animal directly threatens their health or safety.
+Hosts are only allowed to ask the following about a guest’s need for a service animal:
+Whether the guest requires their service animal because of a disability
+What work or task the service animal has been trained to perform
+What we don’t allow:
+When a guest is accompanied by a service animal, Hosts are not allowed to:
+Refuse a reservation
+Charge pet fees or other additional fees
+Apply differential treatment
+Use discriminatory language
+Hold guests to different rules
+A guest’s service animal must not be:
+Out of control
+Unhousebroken
+Left alone at the listing without prior approval
+Allowed into areas that are considered unauthorized to the guest
+Allowed in a public space without being harnessed, leashed, or tethered and not under the guest’s control
+If you’re in Brazil, Hosts are allowed to ask the following about a guest’s need for a service animal:
+
+Request information to appropriately identify and distinguish a service animal from any other emotional dog/pet
+Identification card and identification plate issued by the training center or self-employed instructor containing the following information:
+ID card
+Tutor's and Animal's name
+Name of the training center or instructor
+Training Center's CNPJ or instructor's CPF
+Tutor's and animal's photo
+Plate
+Tutor's and Animal's name
+Name of the training center or instructor
+Training Center's CNPJ or instructor's CPF
+Request the animal updated vaccination card, with proof of multiple and anti-rabies vaccination, signed by a veterinarian registered with the regulatory body of the profession.
+The tutor also needs to have animal equipment, consisting of a collar, leash, and harness with a handle.
+Emotional Support Animal: An animal that provides companionship, relieves loneliness, or helps with depression, anxiety, or certain phobias but is not required to have special training to perform tasks that assist people with disabilities
+
+What we allow:
+Unless the reservation is a stay in New York or California (USA) or another location where applicable law prohibits it:
+Hosts may charge pet fees for a guest who is traveling with an emotional support animal
+Hosts are allowed to decline the presence of emotional support animals from a stay or Experience
+What we don’t allow:
+For jurisdictions where Hosts are required to accept emotional support animals (unless the Host has an exemption) a Host cannot:
+Charge pet fees, decline a guest, or apply different rules, treatment, or behavior to a guest traveling with an emotional support animal
+Ask for information or documentation about a guest’s emotional support animal beyond the questions outlined above for service animals
+For jurisdictions where Hosts are required to accept emotional support animals, a guest’s emotional support animal must not be:
+Out of control
+Unhousebroken
+Left alone at the listing without prior approval
+Allowed into areas that are considered unauthorized to the guest
+Allowed in a public space without being harnessed, leashed, or tethered and not under the guest’s control"
+book_cn,"All travelers staying in an Airbnb listing in the People’s Republic of China (which for these purposes, excludes Hong Kong, Macau, and Taiwan) (“China”) have to provide information similar to that which other hospitality companies in China have collected for decades. This is one step we are taking as we explore ways to help our hosts and guests follow appropriate rules and regulations. 
+
+Airbnb operates our business in China (which for these purposes, exclude Hong Kong, Macau and Taiwan) (“China”) through Airbnb Internet (Beijing) Co., Ltd. (“Airbnb China”).
+
+If you don't reside in China:
+
+If you don't reside in China and you inquire about or confirm a booking for services in China, information you provided will be transferred to, stored, used, and processed by Airbnb China, such as:
+
+Your name, phone number, and email address
+Booking and check-in/out information including city, dates, times, payment amount, listing address and publicly available data about your listing
+Messages between you and the host
+The names, nationality(ies), gender, date of birth, passport/national ID details (including type of ID, ID number and passport expiry date) of all guest(s) staying in the listing, including yourself
+Information derived from the information you provided above (e.g. city as part of your address) or your use or interaction with the Airbnb Platform to inquire about or confirm a booking for services in China (e.g. the date or time a message was sent or booking was confirmed).
+Chinese government agencies require Airbnb China to disclose host and listing information relating to China listings, as well as guest booking and check-in/out information relating to reservations in China. Similar to other hospitality companies that do business in China, Airbnb China will disclose your information above to Chinese government agencies without further notice to you. Your information may be further shared with service providers (including in China) to help run our business. Our service providers may also disclose your information where required by law. Please refer to our Privacy Policy and our China Privacy Policy to learn more about our privacy practices.
+
+If you reside in China:
+
+If you reside in China, your information is stored, used, and processed by Airbnb China. If you inquire about or confirm a booking for services in China, information you provided will be stored, used, and processed by Airbnb China, such as:
+
+Your name, phone number, and email address
+Booking and check-in/out information including city, dates, times, payment amount, listing address and publicly available data about your listing
+Messages between you and the host
+The names, nationality(ies), gender, date of birth, passport/national ID details (including type of ID and ID number) and passport expiry date(s) of all guest(s) staying in the listing, including yourself
+Information derived from the information you provided above (e.g. city as part of your address) or your use or interaction with the Airbnb Platform to inquire about or confirm a booking for services in China (e.g. the date or time a message was sent or booking was confirmed).
+Chinese government agencies require Airbnb China to disclose host and listing information relating to China listings, and guest booking and check-in/out information relating to reservations in China. Similar to other hospitality companies that do business in China, Airbnb China will disclose your information above to Chinese government agencies without further notice to you. Your information may be further shared with service providers (including in China) to help run our business. Our service providers may also disclose your information where required by law."
+book_emergency,"In some instances following a crisis event, Airbnb.org activates a program which allows people who have been impacted to request emergency housing directly. In these instances, you’ll find an article in Airbnb’s Press Room with information about the event and a link where you can submit a request.
+
+You’ll need to log into or create an Airbnb account, confirm your eligibility address, answer a few questions, and agree to certain terms.
+
+After you submit your request, Airbnb.org may get in touch to check on additional details. Airbnb.org aims to review all submissions within 24 hours. If your information can’t be verified or it doesn’t meet Airbnb.org’s eligibility criteria, you’ll receive an email to let you know.
+
+In other instances, people must be referred or assisted by an Airbnb.org nonprofit partner or other organization in order to book or utilize a stay. In these instances, it is not possible for individuals to apply for emergency housing directly.
+
+If you’re approved, you'll receive an email inviting you to browse available Airbnb.org stays. Here are a few tips to keep in mind:
+
+Read the email invitation carefully. It’ll outline how to book a stay and the dates for which you can book.
+Make sure the place is a good fit. Check the listing details—number of bedrooms, amenities, and photos.
+Make sure your stay meets the program requirements. If it doesn’t, it'll be canceled according to the Host's cancellation policy.
+Need more info? If you have any questions, click or tap Contact host on the listing page."
+contact,"You can check out the listing and click or tap Contact Host to send a message. Pro tip: If you want to ask about specific reservation details, enter the dates and number of guests for your trip before hitting Contact Host (you won’t be able to send a message unless you have dates selected)."
+inv_book,"So, you’ve got some dates in mind and you found a place you’re interested in. You message the Host and they reply with an invitation to book. Great news—this means that the place is available and the Host wants to seal the deal.
+
+What’s next? All you have to do is click Book Now in the message thread, add your payment information, and click Confirm. You’ll be all set.
+
+Not quite ready? You have 24 hours to decide if you want to book for those dates and that price. If you wait longer, the guest fees may change, or the Host may accept another booking, as they are able to invite many potential guests."
+pre_approve,"A pre-approval is a way for a host to let you know if their listing is available for the dates you’ve inquired about. Once you're pre-approved, you can automatically book your reservation for those dates without waiting for another response from your host.
+
+Keep in mind that when a host sends you a pre-approval, your booking isn’t confirmed until you’ve clicked Book It in your message thread and added your payment information. Hosts can send pre-approvals to multiple potential guests, so if you’ve found the perfect space, make sure to complete the booking process as soon as possible.
+
+You have 24 hours to accept a pre-approval before it expires. If more than 24 hours have passed, you can still accept the pre-approval, but your host will need to approve your request before your booking is confirmed."
+accept,"Go to your Inbox and open your Host’s message
+Review the details of your pre-approval or special offer and click or tap Book now
+Next, click Reserve and review your payment info
+Click or tap Confirm and pay"
+special_offer,Host chooses a custom price (or other details) and invites you to book with the new details. You’ll have 24 hours to accept the special offer.
+contract,"Some Hosts ask guests to sign contracts or rental agreements. This is so the Host can legally enforce certain rules protecting themselves and their property.
+
+You should be made aware of this requirement before you book, and you’re not obliged to sign anything. If you’re not comfortable with it, you can discuss it with the Host or find another place to stay.
+
+If you made a reservation and then the Host tells you about the contract, you can decline to sign it and ask your Host to cancel your reservation."
+listing_instanthow,"Go to the listing and click Check availability
+Select dates, number of guests, then click Reserve
+If you are shown Confirm and pay, you can book instantly
+If you are shown Request to book, you can add payment info, review the policies and terms, and message the host before you submit
+
+If you booked instantly, you’re good to go. If you sent a request, your Host will typically respond within 24 hours. In the meantime, we may ask you to verify your identity—some Hosts require it, and it helps us ensure the safety of our community.
+
+In everywhere but India, if the Host accepts your request, you’ll be charged for the reservation. If they decline or don’t respond within 24 hours, there's no charge and you’ll be free to book a different stay instead.
+
+For guests paying in Indian rupees, you'll be charged for the reservation when you request to book. If your request expires or is declined by the Host, we'll immediately refund you in full, which can take up to 10 days, depending on your bank."
+cancel,"First, check the status of your request. If the Host has already accepted it, then it’s subject to their cancellation policy. If it’s still pending, you can cancel, and you won’t be charged for the reservation or the service fees.
+The simplest way is to find the message thread with your Host in your Inbox and select Withdraw request. Otherwise:
+1. Go to Trips and click Show more trip plans
+2. For a reservation that says Pending Host approval, click Cancel reservation
+3. Click Cancel request/reservation"
+check_reservation,"Your reservation status keeps you updated on all kinds of things, such as whether you're confirmed or need to do something like verify your ID or leave a review. To check it, either find the message thread with the Host in your inbox, or go to Trips and click or tap Show more trip plans, then Show details.
+
+A Confirmed status means you’re good to go! You’ll receive an email saying so, along with a text (SMS) and a push notification if you have those set up."
+book_diff,"For Instant Book listings, your reservation is automatically confirmed. If you used the Request to book button, Hosts have 24 hours to respond. If they decline or don’t respond, no worries: You won’t be charged and are free to book a different stay. Either way, be sure your account is up to date with valid payment information and your verified ID (Some Hosts require it.)"
+reserve_status,"Arriving today
+The guest will arrive within 24 hours.
+
+Arriving tomorrow
+The guest will arrive soon, but not within 24 hours.
+
+Arrives in __ days
+The guest will be checking within said number of days. Now’s a good time to print reservation details and coordinate check-in if you haven’t already.
+
+Awaiting guest ID
+The Host is requiring the guest to verify their identity before accepting the trip request. They have 12 hours to do so; otherwise, the request will expire.
+
+Awaiting guest review
+The guest has checked out and has 14 days to write a review of their stay.
+
+Awaiting payment
+The trip request was accepted, but the guest's payment hasn’t gone through. The reservation can’t be confirmed until payment is complete, so they have 24 hours to update their payment information. Otherwise, the reservation will be canceled without penalty.
+
+Learn more about reservations that are awaiting payment.
+
+Canceled
+The reservation was cancelled, probably because:
+
+The guest didn’t verify their identity within the 12-hour time period
+Their payment didn’t go through and they didn't update their payment info within 24 hours
+Canceled by you/guest/Host/Airbnb
+Either the Host, the guest, or Airbnb canceled a confirmed reservation. Sometimes, Airbnb may cancel on behalf of a Host or guest.
+
+Checking out today
+The guest will check out within 24 hours.
+
+Change pending
+Either the Host or guest has initiated a trip change.
+
+Confirmed
+The trip request was accepted, either by the Host or automatically via Instant Book. Airbnb has collected payment.
+
+Currently hosting
+The guest is on their trip at this very moment. Nice!
+
+Invite expired
+The guest did not accept their pre-approved invitation to book within 24 hours of receiving it from the Host. They can still book the place, but they’ll need to send a new trip request.
+
+Invite sent
+The Host has invited the guest to book the dates shown with automatic confirmation. The guest has 24 hours to accept by choosing Book Now.
+
+Not possible
+The requested dates are no longer available. This could happen for several reasons, including reservation overlap or a recent update to the Host’s calendar.
+
+Offer expired
+The guest received a special offer from the Host but didn’t accept it within the 24-hour window.
+
+Past guest
+The guest as completed their trip.
+
+Request declined
+The Host declined the guest’s trip request, so they won’t be charged.
+
+Request expired
+Either the Host or the guest took longer than 24 hours to accept or decline the request. If the guest is still interested, they’ll need to send a new request. Get more detail on declined or expired requests.
+
+Request withdrawn
+The guest sent a trip request but then decided to cancel it.
+
+Review guest
+The trip is over, and the Host has 14 days to leave a review for the guest.
+
+Special offer sent
+The Host has invited the guest to book the dates shown at a different price from what’s listed. Hosts often do this to offer a discount or add an additional amount, such as a pet fee, to the reservation. The guest has 24 hours to accept by choosing Book Now—at which point, the reservation is automatically accepted.
+
+Trip changed by Airbnb
+Our customer support team has changed the trip details on behalf of the Host or guest.
+
+Trip change declined
+The Host has declined the guest’s request to change details about their trip.
+
+Trip change requested
+The guest has requested to change details about their trip. If the Host doesn't accept, they’ll have to go with the original plan or cancel.
+
+Trip change sent
+The Host has requested to change details about their trip. If the guest doesn’t accept, they’ll have to go with the original plan or cancel.
+
+Trip declined
+Guest asked a trip question and the Host declined it, which means the guest is not able to send a trip request. This may be due to a change in their availability.
+
+Inquiry
+The guest has asked a question about specific dates but hasn't yet sent a trip request. In order to maintain their response rate, we encourage Hosts to write back within 24 hours and invite guests to book, decline, or send a special offer before the inquiry expires. If your status says “Inquiry - expires soon,” check the Today dashboard to find out how many hours you have to respond before it’s too late. Learn more about contacting Hosts."
+contact_no_reply,"Most Hosts respond within a few hours, but time zones and lack of internet access might slow things down. In the meantime, try reaching out to other Hosts in the area. Just be careful not to send more than one trip request for the same dates to ensure you don’t end up double booked.
+
+Don’t want to wait for a Host response? Try Instant Book listings—they allow you to book immediately without needing to send a request to the Host for approval, provided you’ve completed your account setup."
+contact_when,"Hosts have 24 hours to accept or decline your request, but the vast majority reply within 12 hours. Chances are, it’ll be even quicker: More than half of all trip requests are accepted within one hour of the Host reading it.
+
+You can check the status of your trip request any time you like, but you’ll also receive email updates when things change.
+
+When a Host confirms your request, your payment will be processed and collected in full by Airbnb. If they decline or let it expire, you won’t be charged and you’re free to book a different stay.
+
+Need more info from your Host? You can use your Inbox to message the Host or go to your Trips."
+change_pending,"Change of plans? No problem. As long your reservation status is still Pending, you can withdraw your request and send a new one: Just go to your message thread with the Host and select ?Withdraw request, or you can go to Trips and cancel a pending trip request. 
+
+After that, simply send a new request with your updated details. 
+
+After you’ve canceled or withdrawn the request, you can then send a new request with your changed dates or number of guests."
+book_experience,"It’s easy to book—just find the Experiences section on the Airbnb website or app. You can choose a specific city and dates, or browse through all experiences. Keep in mind, experience availability is set by the individual Host.
+
+Need a great staycation activity? You don’t need to have a home booked on Airbnb in order to book an experience."
+book_mexperience,You can book as many experiences as you can handle! Just cross-check schedules to avoid booking experiences that overlap.
+book_oexperience,"You can book an online Experience the same way you'd book an in-person one. Just be sure you can access Zoom via your desktop, tablet, or mobile device."
+book_oexperience_price,"Online Experiences are priced per person, and you’ll be asked to book a spot for each person joining the Experience. However, if a Host is open to multiple guests joining per device, they will let you know on their Experience page under What You’ll Do and How to Participate."
+book_oexperience_ccrefund,"You can cancel up to 7 days before start time or within 24 hours of booking. And you can change a reservation up to 72 hours before the Experience begins. Cancellations and changes have the same policies for both online and in-person Airbnb Experiences.
+
+You’re eligible for a full refund if there are any technical difficulties, such as audio or video issues, on your own device or the Host’s device during an online Experience. Refunds, changes and cancellation can be made by filling the form that pops out at the bottom corner of the screen."
+book_oexperience_attend,"You’ll learn everything you need to know in your confirmation email, but you can also check the How to participate and Guest requirements sections of the Experience page.
+To find the Zoom link for your online Experience, go to:
+
+Your confirmation email
+Your reminder email
+Trips, included in your reservation information"
+report,"If you come across any inappropriate content, contact Airbnb’s community support and report it. Provide as much information as possible and we’ll investigate the issue."
+experience_include,"Every experience is different, so it’s a good idea to carefully review what is and isn’t included before you book.
+
+For instance, you’d need to know if drinks are included in your tasting experience, or if you’ll need to pay for the special exhibit at a museum tour.
+
+Hosts add this info to the experience page. Check the What’s included or What I’ll provide section to find out what to expect.
+
+Accommodations are typically not included with single-day experiences. Multi-day adventures do include lodging, meals, and activities."
+experience_group,"When you find the Experience that you want to book, check if the Book for a private group option is available. You can also contact the Host to learn if they can host your group privately or customize the Experience for your group. Just be aware that whether a Host offers private groups is at the Host’s discretion
+
+If your group makes a reservation and the total amount that you’d pay for that reservation exceeds the Host’s minimum price, then your group will pay the higher amount."
+experience_inv,"If you book an experience, you can send all the additional guests an invitation link that will prompt them to click or tap Claim Your Seat. Once they do, they’ll have all the benefits of being added to the reservation.
+
+One important thing: The people you invite must have an Airbnb account in order to use the Claim Your Seat feature.
+
+After you’ve completed your booking:
+
+Go to Trips and find your experience under the Upcoming tab
+Click or tap More details
+Scroll down to Copy invite link
+Send the link to people in your group
+Once they click or tap Claim Your Seat, your guests will get:
+
+A confirmation email with their reservation details and a Zoom link to sign into the event. (Don’t worry! The email won’t display pricing information, that’s between you and the Host).
+Access to a direct message thread with the Host, as well as a group message thread with the other attendees (including you as the booker).
+The option to leave a review after the experience is over.
+If you need to increase the group size (the more, the merrier!), you’ll always have the option to add more guests before the experience begins under Manage Reservation—depending on what your experience host can accommodate."
+accesibility,"Enter your destination and desired date(s)
+Once your search results show, click Filters 
+Click Choose accessibility features
+Select any features you'll need to enjoy an Experience and click Save"
+claim_seat,"You’ll receive an email from the person who booked the experience. That email will include an invite link, and that link will prompt you to click or tap Claim Your Seat.
+
+Claiming your seat is kind of like RSVPing. Once you claim your seat, you’ll have access to essential information and important features that will enable you to thoroughly enjoy the experience.
+
+One important thing: You’ll need to have an Airbnb account to use the Claim Your Seat feature."
+experience_changereq,"Go to the Experience you want and click Contact Host
+Click Request a specific date
+Select a date, a time frame, and the number of guests
+Review your request and then click Send request
+The Host will review the reservation details and decide if they can fit you into their schedule. 
+
+If they confirm, you can complete the booking through a message in your inbox
+If they can’t accommodate you, you can try to work together to find a mutually good time"
+experience_requirements,"Special certification
+Curious if your activity requires a specific license, such as scuba certification or a driver’s license? Your Host will provide that info in the guest requirements section of the listing.
+
+Skill level
+Some activities require different skill levels, such as a strenuous hike or a sailing adventure. This information should be included in the listing. And, of course, feel free to ask your Host questions about what you should expect during the Experience."
+experience_extrappl,"It’s a big “Nope” to bring a couple of extra friends unannounced on the day of an experience. The Host can turn them away if they haven’t booked their spot through Airbnb. 
+
+To avoid disappointment, include your friends in your plans early or have them book the experience by themselves."
+experience_buybehalf,"Airbnb Experiences are amazing when they are shared. You can book and pay for up to 10 guests, but you must be one of the participants.
+
+For some Experiences, you may be notified by email that you and any guests you invite need to have an Airbnb account and?provide ID before they can attend."
+experience_children,"Hosts should have detailed experience descriptions that specify if the experience is suitable for children or how old children must be to attend.
+
+You can always contact the Host before you book to ask questions about the skill level needed for the experience. And remember, all children or guests under 18 years old must be accompanied by their legal guardian."
+experience_diet,"Hosts should have detailed experience descriptions that specify if the experience is suitable for children or how old children must be to attend.
+
+You can always contact the Host before you book to ask questions about the skill level needed for the experience. And remember, all children or guests under 18 years old must be accompanied by their legal guardian."
+businesstravel_enroll,"Go to Account and click Travel for work
+Enter your work email
+Click Add work email
+There’s no minimum or maximum number of employees required to sign up for Airbnb for Work, so even if your company’s an organization of one, you can still sign yourself up and enjoy all that comes with it."
+businesstravel_join,"You can link your work email address to your existing Airbnb account. Simply go to Account and click or tap Travel for work. Enter your work email and click or tap select Add work email.
+
+Don’t have an Airbnb account yet? You can use your work email address to set one up. Once you’ve signed up and agreed to our terms and conditions, you’re ready to join your company’s account.
+Open your unique invite link. If you've already added your work email address to your Airbnb account, you can start exploring places to stay. Otherwise, enter your work email address and click or tap Add work email.
+
+If you’ve been invited to join a specific team at your company, you can click or tap Request to join team in your email. 
+
+Your company admin will be notified you’ve asked to join. Once they approve your request, you’ll be added to the team.
+If you get a ""This isn’t a supported email domain"" error, make sure you aren’t using a public email domain (ex: gmail.com, hotmail.com) to register for your company’s account.
+If you still see this error after entering a valid work email domain, it means your company's business account is invite-only. Try asking your company’s human resources or travel manager for an invite.
+If you already have a personal Airbnb account, make sure you're entering your work email address (ex: name@companyname.com) on our Business Travel page. We'll help you link your personal account and work email address from there."
+businesstrip_book,"You can use us for business trips, too. Mark a booking as a business trip by selecting Is this a work trip? during checkout. This way, you can add trip notes that’ll be sent to the person who manages your company’s travel. You’ll also get an expensable receipt from us in your work inbox. If you've already booked a trip and mistakenly marked it as a business trip, or vice versa, you can update it at any time by going to your Trips page and selecting or deselecting This is a business trip. You can only do this if you booked using a personal payment method. 
+
+If you mistakenly charged a business trip to your company, you'll need to cancel immediately to avoid cancellation fees and any compliance concerns for your organization."
+businesstrip_traveldetail,"Go to Trips, choose Upcoming or Past, and select the trip you want to edit
+Go to Payment info
+If you’re verified, select This is a business trip (if not, skip this step)
+Click Add details for expensing your trip
+Enter your billing address or any other relevant details, then click Save
+Adding VAT details to your notes won’t affect the VAT charged on your reservation. VAT invoices cannot be changed."
+businesstrip_invbooker,"Confirm your company has enrolled in Airbnb for Work
+Add your work email address to your profile 
+Change your booking permissions to allow others to book trips for you
+Go to Booking permissions
+Under Booking permissions, choose Manage
+Enter the email address of the person you’d like to invite, then click Send Request
+The person will receive an email invitation. When they accept your request, you’ll receive an email confirmation."
+businesstrip_experience,"From the Airbnb home page, click Experiences
+Enter Location and select date
+Click Guests and enter the number of participants
+You can filter the results or browse until you find the perfect match. You can also message the Host directly to ask if they can host your group privately, or customize the Experience for your team.
+
+Ready to finalize your reservation? You’ll be prompted to enter the names of participants and their email addresses. Including email addresses is optional, but will ensure your team gets useful info along the way."
+emergencybook_eligible,"People affected by disaster and relief workers responding in an official capacity. To be eligible, guests need to provide proof of a permanent or local travel address in the impacted area.
+Refugees and asylum seekers. To be eligible, guests must be recognized refugees and/or are in the process of seeking asylum, a Special Immigrant Visa (SIV), or other immigration status designations with a similar humanitarian purpose.
+Airbnb.org often works with nonprofit organizations and resettlement agencies specializing in crisis response and refugee resettlement to facilitate on-the-ground support, including assessing the needs and eligibility of potential guests.
+
+Airbnb.org guests booking temporary accommodations on their own are required to set up an Airbnb account, which may include identity verification checks.
+
+A guest’s eligibility may be reviewed by Airbnb.org, its nonprofit partners, referral organizations, or its service providers before they can utilize stays."
+emergencybook_frontline,"It isn't possible to apply for a Frontline stay as an individual at this time. To be approved for a Frontline stay, you must be referred by a partner organization.
+
+
+If you’re approved, a booker from your organization might book on your behalf, or might send you an email invitation to book. Here are a few tips to keep in mind:
+
+Read all of the information in the email invitation. It will tell you more about what kind of stay you can book.
+Make sure to book a listing that’s labeled as a “Frontline stay.”
+Don’t make a reservation until you receive an invitation to book to ensure discounts are properly applied and you're booking a place for COVID-19 responders. We're unable to waive fees on stays booked outside of the Frontline stays program."
+emergencybook_frontlineterms,"To be eligible for a Frontline stay on Airbnb, you should be actively doing COVID-19 support work in the following fields:
+
+First responder (ex: paramedic, police, firefighter)
+Medical professional (ex: doctor, physician, nurse, emergency medical technician/EMT, nurse’s aide, respiratory therapist, pharmacist, radiologist, x-ray technician)
+Civil protection (ex: social worker)
+Community health worker (ex: counselors, non-credentialed community health workers)
+You should also be working in one of the following facility types while actively responding to COVID-19:
+
+Hospitals
+Temporary hospitals and COVID-19 testing centers
+Clinics and urgent care centers
+Skilled nursing facilities and nursing homes
+Your Frontline stay also needs to be for one of the following reasons:
+
+You prefer to self-isolate (concerns about transmission to family or roommates)
+You commute to work and are working extended hours and need to be closer to an approved facility
+You’re an out-of-region worker on a temporary assignment
+The following reasons are not supported for Frontline stays:
+
+You’re symptomatic and need to self-isolate
+You need to quarantine for 14+ days
+You need a respite/vacation stay 
+You want to permanently relocate"
+emergencybook_frontlineextra,"For the most part, frontline stays are for people actively involved in COVID-19 support work and who need to isolate themselves. There are, however, a few exceptions. Other people can stay with you if they are:
+
+Fellow first responders who want to share a place to stay
+Family members who had been living with you but no longer have housing because of your work as a first responder"
+message_how,"It all starts with a message, whether you have a question about a listing or want to book a stay right away. Getting in touch with a Host starts a message thread you can always go back to, and once you’ve taken that first step, your inbox helps you keep all your communication organized for all your trips. Just go to your Inbox and click on a message thread to read an existing message or send a new one. 
+
+The fine print: You do have to be logged in to your Airbnb account to read or send messages, and you can only send 25 messages within any 24-hour period (we don’t think you’ll need to send any more than that)."
+message_archive,"Go to your Inbox and select the message thread you want to archive
+Click the Archive icon
+To read archived messages, choose Archived conversations from the dropdown menu"
+message_card,"If you’re eligible, you’ll receive an email inviting you to send a card:
+
+Click or tap Send a kindness card in the email.
+You’ll be taken to a page where you can choose a host. You’ll only be shown hosts from experiences or stays you’ve given four or five-star ratings. Hosts who are no longer hosting on Airbnb will not be shown.
+Next, select a card design. To change the language of the card that your host will receive, tap or click the language selector. A check is shown next to the language in which the host will receive the card. The host's preferred language will also be indicated. Note that some card designs are only available in certain languages.
+Then add a note to the host, if you like. To get ideas for what to say in your note, select ""Show some examples"" in the message box. Then, write your own note or edit one of the examples.
+Finally, you'll have the option to include a financial contribution where 100% of your payment goes directly to the host.
+You’ll be able to preview your card before sending it. Please note that your card and the message inside may be visible to others
+After you send your card, you’ll receive a confirmation email including a copy of the card. If your payment method fails, you'll also receive an email letting you know you'll need to update your payment information in order for your contribution to be completed. Once you send a card to a host, you won't be able to send them an additional card.
+
+You may not have the option to add a financial contribution to every card. Some hosts may not be able to accept financial contributions for various reasons, including living in locations where local regulations prevent them from accepting contributions. Also for group stays or experiences, only the guest who paid through Airbnb will be able to make a contribution to that host.
+
+It’s your responsibility to determine whether your contribution is eligible for a tax deduction or credit."
+message_suspend,"Airbnb may limit, suspend, or deactivate an account, as outlined in our Terms of Service. 
+
+When this happens, the suspended person’s messages in your inbox will be replaced with text indicating that their account no longer has access to Airbnb.
+
+Depending on the nature of the situation, the suspended user and their messages may be restored."
+reserve_expire,"If your reservation request is declined by the host or expires (hosts have 24 hours to respond), no charge is made for the reservation and you’re free to book another place to stay. Find out more about checking the status of your reservation.
+
+If your reservation request is declined and the listing for the stay shows that it's still available, the host’s calendar may not be up-to-date or they may want reservations of a different length or time."
+reserve_pending,"Here are some reasons why your reservation might have a ""Pending"" status:
+When you make a request to book and complete your payment, a reservation request is automatically sent to the host, who has 24 hours to accept or decline the request. The status for your reservation will be ""Pending"" until the host responds. During this time, you can also contact the host to approve your request. 
+
+If the host declines your request or doesn't respond within 24 hours, the booking status will be updated as ""Declined"" or ""Expired,"" and your payment will be refunded to your original payment method.
+Sometimes a reservation will be ""Pending"" if you've booked a place to stay but you haven't completed the identity verification process. In this case, you'll have 12 hours from the time you booked to complete identity verification, otherwise the reservation will be automatically canceled."
+stay_chg,"You can change a confirmed reservation by submitting a change request to your Host or through a form that has popped up on the bottom right corner of your screen.
+Go to Trips and then click the trip you want to change
+Click Change reservation
+Change the dates of your stay or the number of guests and click Continue
+Please note the Host will have to accept any changes submitted. If your Host doesn't accept, try sending them a message reminding them to review your alteration request.
+Review your changes, then click Send request
+Once you send the request, the Host will receive a notification to approve or decline your request
+Depending on the Host’s policy, changing the number of guests may affect the total cost of your stay.
+
+The original total and the new total will be shown before you submit your request for the alteration. Once the Host accepts, the change will be processed.
+
+You’ll be charged or refunded, if necessary, and this will also be shown before you confirm the change.
+
+If the Host declines your request, or doesn’t respond, your reservation will stay the same.
+Here are a few other things to keep in mind when making a change request:
+
+You can’t make changes if your checkout date is in the past
+Once changes have been made, any later changes must go through the process outlined above as a new request
+If the Host altered their pricing for the new dates before you requested the change, your new reservation will reflect this pricing, unless you booked a special offer
+Changing the reservation dates may affect if you're still eligible for a weekly or monthly discounted rate
+Once a reservation has started, you can’t change the number of guests
+If you do need to add more guests to your reservation, use the resolution center to process any additional payments you and the Host have agreed on
+
+If you’re a guest, you can check your confirmation email for more details.
+
+If you change or cancel a longer stay:
+
+Your first payment might be nonrefundable, depending on the listing and when the reservation is made
+If you cancel after the trip has started, the following 30 nights of the reservation are nonrefundable
+Your Host can choose to offer an additional refund"
+stay_withdrawchg,"Go to Trips and click the trip that you want to change
+Under Changes pending, click View
+Click Cancel
+To check the status of your reservation, go to Trips, click or tap Show more trip plans, and then Show details. You can also check your Inbox for messages from your Host."
+stay_chkstatus,"After making a reservation change request, you can check the status through your Trips. Find the trip you want and click or tap Show more trip plans, and then Show details.
+
+You can also check your Inbox for messages from your Host."
+stay_add,"Go to Trips and under Upcoming, select the trip you want to change
+Under Reservation details, click Manage guests
+Add or remove guests, then click Continue
+Review your changes and any price difference, then click Send request
+Once the Host agrees to your changes, they’ll be applied automatically.
+
+Note: If you booked the trip and need to cancel, you can’t transfer the reservation to someone else—you’ll need to cancel it and ask the other guests to rebook."
+stay_sharetrip,"Go to Trips and select the trip you want to share
+Under Who's coming, click Manage guests
+Add a co-traveler by emailing them an invite
+Be aware that shared links expire after 1 week. You can share your itinerary details by email with anyone who doesn’t have an Airbnb account."
+stay_extend,"If your reservation has ended, it’s too late to make a change request. What you can do, though, is send a new trip request to your Host. 
+
+If you’re still on your trip, you can message your Host and ask if they can accommodate a longer stay, or you can simply send them a change request.
+
+Go to Trips and then click the trip you want to change
+Click Change reservation
+Change the dates of your stay or the number of guests and click Continue
+Please note the Host will have to accept any changes submitted. If your Host doesn't accept, try sending them a message reminding them to review your alteration request.
+Review your changes, then click Send request
+Once you send the request, the Host will receive a notification to approve or decline your request
+If your Host accepts your change request, your reservation will be updated and you’ll be charged for the extra time. If your Host can’t extend your stay or if they don’t respond, your checkout date will stay the same."
+experience_reschedule,"Go to Trips and click the Experience you want to change
+Click Change or cancel
+Under Change the date or time, click Next
+Find a new date or time, and click Choose
+Click Confirm change
+If the options don’t work for you, you can request to book a date or time that’s not on your Host’s calendar or you can cancel your reservation."
+host_offer,"Sometimes a Host might offer you an alternative listing if the one you wanted has become unavailable—and it’s completely up to you if you want to accept or decline it.
+If you don’t have a confirmed reservation yet and the Host offers you a different listing from the one you discussed, you can book their suggested stay or simply look for a new place.
+
+Please make sure the Host’s suggested alternative would work for your trip before confirming.
+If your Host is asking you to stay in a different listing than you originally booked and you’re okay with a switch, either you or your Host can change the reservation. 
+
+If you don’t want to change your reservation, or if your Host is asking you to switch without officially changing the reservation on Airbnb, ask the Host to cancel your reservation so you can get a full refund or find another place to stay.
+If you’ve already checked in and you believe the listing is not what you booked on our site, let us know and our Guest Refund Policy will ensure you either get the listing you booked, or a refund."
+change_decline,"Wondering if you’re allowed to say no to proposed changes for a confirmed reservation? The answer is yes! Both guests and Hosts can decline trip change requests. If you decline, the proposed changes don’t take effect, and the existing reservation details remain as is. 
+
+There are no penalties for declining, but if you’re a Host, there are a few issues to consider when responding to a trip change request from a guest."
+cancel_circumstance,"Not to worry. If you need to cancel your reservation because of an emergency or unavoidable circumstance, we can help:
+
+Our Extenuating Circumstances Policy are covered if:
+Changes to government travel requirements. Unexpected changes to visa or passport requirements imposed by a governmental agency that prevent travel to the destination. This doesn’t include lost or expired travel documents or other personal circumstances relating to a guest’s authorization to travel.
+
+Declared emergencies and epidemics. Government declared local or national emergencies, epidemics, pandemics, and public health emergencies. This does not include diseases that are endemic or commonly associated with an area—for example, malaria in Thailand or dengue fever in Hawaii.
+
+Government travel restrictions. Travel restrictions imposed by a governmental agency that prevent or prohibit traveling to, staying at, or returning from the Listing location. This does not include non-binding travel advisories and similar government guidance.
+
+Military actions and other hostilities. Acts of war, hostilities, invasions, civil war, terrorism, explosions, bombings, rebellions, riots, insurrection, civil disorder, and civil unrest.
+
+Natural disasters. Natural disasters, acts of God, large-scale outages of essential utilities, volcanic eruptions, tsunamis, and other severe and abnormal weather events. This does not include weather or natural conditions that are common enough to be foreseeable in that location—for example, hurricanes occurring during hurricane season in Florida.
+
+1. Make sure you have any required documentation available
+2. Cancel your stay or Airbnb Experience by selecting I have an extenuating circumstance
+3. Contact us to file a claim, and we’ll walk you through the next steps, which will include submitting any required documentation and waiting for our team to review your case
+Important: Claims must be submitted within 14 days of cancellation."
+cancel_options,"If your reservation was made on or after May 31, 2022 and COVID-19 affects your travel plans, your Host’s cancellation policy will apply. Our Extenuating Circumstances Policy does not cover COVID-19 related cancellations for these bookings, except for domestic reservations in South Korea where the guest or Host is sick with COVID-19."
+cancel_rebook,"While canceled reservations can’t be restored, you can contact the Host and make a new reservation.
+
+Message the Host and make sure you reach an agreement before rebooking. They'll send you a special offer with the specific agreed booking details. You’ll have 24 hours to accept the special offer.
+Go to Trips and click Canceled
+Select the reservation you want to book again
+Click Message host
+If you didn't get a full refund for the original canceled reservation, you can contact us to request a full refund after you rebook."
+cancel_adventure,"Airbnb Adventures differ from experiences in that they take place over multiple days and can include overnight stays, so the cancellation policy differs slightly. You can get a full refund for any adventure if you cancel at least 30 days before the adventure is scheduled to start, or within 24 hours of purchase. Easy enough!"
+host_cancelreserve,"When a cancellation occurs, you’ll get an email with full details, including your refund info. Refund times may differ depending on how you paid.
+
+If your cancellation happens within 30 days of check-in, we can also assist in rebooking a comparable or better listing."
+host_cancel,"Sometimes a Host can’t accommodate your stay, and in most cases will let you know the bad news ahead of time. Don’t cancel for them—send them a cancellation request so you don’t miss out getting your best refund or you can fill up the form that popped up on your bottom right corner of the screen.
+Go to Trips and click the trip you want to cancel
+Click Show trip details
+Click Change or cancel
+Click Cancel reservation
+Under Please select a reason, choose My host needs to cancel
+Next to Did they say they can’t host you anymore? choose Yes
+Click Ask host to cancel
+Hosts have 48 hours to respond. If your trip starts within a week, though, they have to respond within 24 hours. If they accept your request or don’t respond, you’ll get a full refund. If they decline, they should still be able to host your stay. 
+
+If your Host has already canceled, your full refund is on its way."
+host_cancelexp,"Sometimes a Host may need to cancel before or during an experience due to bad weather and safety concerns. If this happens, you’ll get a full refund and you can rebook the experience if you want.
+
+Another reason a Host may cancel is if they required ID from you as the primary guest, but didn't receive it within 3 days of booking. Again, if the reservation is canceled, you’ll be refunded."
+checkin_smooth,"Find your reservation details
+Go to your Trips page to find important information, such as the address, your Host’s contact information, and your billing receipt. Check-in information is usually available 3 days before the reservation begins.
+
+Communicate with your Host
+Before your arrival date, message your Host to confirm:
+
+Check-in and checkout times
+Arrival details
+Key exchange or an alternative method of access
+Contact information and whether either one of you will be without phone or internet access during the trip
+Any other questions you might have
+
+On arrival
+In-person key exchanges
+Some Hosts may want to greet you in person to give you the keys or the entry code to their place. If so, look up travel advisories so you can allow extra time to meet up in the event of things like flight delays, bad weather, or road closures.
+
+Other check-in methods
+Other options include:
+
+Self check-in
+Messaging with instructions to enter
+Leaving keys in a lockbox
+Having a neighbor, Co-Host, or doorperson meet guests"
+checkin_instruct,"Go to Trips and click Show more trip plans
+Click Show details
+Go to Checking in & out for check-in instructions
+Make sure to check both your email and your messages for check-in instructions.
+
+If your reservation is less than 48 hours away and your check-in information isn’t available, it’s time to message your Host for the info."
+checkin_issue,"Message your Host
+
+Send a refund request or send it through the form that have just popped up at the right bottom corner of your screen.
+Here’s how to prepare:
+Gather evidence: If possible, take photos or video to document issues like a missing or broken amenity.
+Submit your request: You’ll describe the issue, provide photos or video if you can, and let the Host know how you’d like to resolve the issue. 
+Wait for a response: If your Host declines or doesn’t respond, you can ask Airbnb to step in to help. Airbnb will refer to the Rebooking and Refund Policy to determine what help we can provide.
+
+Involving Airbnb
+Though we always want Hosts and guests to work things out directly if they can, we know it’s not always possible. If an issue comes up that you’re not able to resolve with your Host (or your Host declines or doesn’t respond to your refund request), let us know and someone from our team will step in to help.
+
+If we find the issue is protected by AirCover, we’ll get you a full or partial refund, or depending on the circumstances, find you a similar or better place to stay.
+
+Remember that you have 72 hours to report any issue to us from the time of discovery."
+checkin_print,"Go to Trips and select the trip you'd like to print the details for
+Click Show details
+Under Reservation details, click Print details"
+adventure_level,"These definitions were created in partnership with the Adventure Travel Trade Association (ATTA):
+
+Light: Guests should be comfortable sitting, standing, or walking for extended periods of time. Activities may include things like easy hikes, walking tours, wildlife tours, and cooking or art classes. Any activities which are more strenuous are optional.
+Moderate: Guests should be comfortable participating in multiple hours of physical activity (3+ hours). Activities may include things like longer hikes, biking, kayaking, snorkeling, and horse or camel rides.
+Strenuous: Guests should be comfortable participating in highly physical activities that may last the entire day (6+ hours), and past experience with the included activities is recommended. Full-day activities may include things like long hikes, bike rides, and kayaking. Adventures may also include higher altitudes, steep ascents/descents, strong currents, and rougher terrain or water.
+Extreme: These Adventures are the most physically demanding, so prior experience or related training is strongly advised. Activities are highly challenging and may last the entire day (8+ hours). All-day activities may include things like strenuous hiking, biking over uneven terrain, and intense rock climbing. Adventures may also include higher altitudes, steep ascents/descents, strong currents, and rougher terrain or water."
+EA_tips,"What to bring with you to the experience
+Here are some materials to consider using for every kind of physical activity.
+
+Water or electrolyte sports beverages
+First aid kit
+Ice packs
+Blood/heart pressure monitor
+Your country’s first aid app
+Your country’s hazards app
+Before the activity
+Here are some recommendations before you participate in physical activities:
+
+Sleep properly (6–8 hours) the night before the activity
+Avoid drinking alcohol or taking any substance that might affect your heart rate and awareness
+Have a substantial and healthy meal before the activity (ex: fruits, protein, and carbohydrates) and avoid food with grease and spices that might irritate the stomach
+Ask the host of the experience what the level of difficulty of the activity is in terms of time, distance, altitude, and effort—be conscious of your age and physical condition before you sign up for an activity
+Check the forecast and use appropriate clothing and shoes
+Identify the closest medical center in case of an emergency
+Tips for during the activity
+During the activity it’s important to check your health condition. Here are some suggested tips:
+
+Before starting a physical activity, warm up and stretch the body for at least 10 minutes
+Check blood pressure and breathing frequency minutes before
+Have a good amount of water or electrolyte sports beverages within your reach—it is not recommended to drink liquids all the time, only when you feel thirsty
+Use sunblock, wear a hat, and protect yourself from the sun by standing under shaded areas when possible
+Write down an emergency contact number—having a simple emergency card with you willensure time to reach a family member or friend (sometimes accessing emergency contact numbers on mobile phones takes more time)
+Be aware of the surroundings and keep your belongings close
+In outdoor activities share your location through mobile apps, devices, or GPS transmitters—in some areas, the mobile network could be inefficient, so we recommend sharing your location with your host as well as a relative or friend who is not attending the activity
+Tips for after the activity
+After physical activity, the human body needs a cool down phase. Here are some tips for recovery:
+
+Drink water or electrolyte sports beverages until you feel satisfied
+Eat healthy food that provides energy such as fruits, nuts, almonds, and protein bars
+Pain in any part of the body could be a sore muscle—if the pain persists, it is recommended to check with a doctor
+Headaches could be a sign of dehydration, which means it is important to drink water or an electrolyte sports beverage"
+EA_evac,"Support offered by International SOS
+International SOS will help support medically necessary evacuations for experience and adventures guests and will provide expert recommendations regarding health care globally to ensure guests have access to the most appropriate medical care. Where medically necessary, International SOS will make recommendations for and manage the end-to-end process of medical evacuations.
+
+International SOS and emergency services
+International SOS is not designed to be a replacement for local emergency services. If there is any doubt, local emergency services should be contacted prior to contacting International SOS.
+
+Emergency planning
+We recommend that all guests and hosts engaging in an experience prepare an emergency plan in case of a natural disaster or any other kind of emergency that could occur during an experience. Find out more about making an emergency plan."
+experience_marine,"For Airbnb Experiences and Adventures that include animals, Airbnb has partnered with World Animal Protection to provide guidelines and articles that seek to promote the safety of wild animals in the wild and in captivity, as well as domesticated animals under human care.
+
+Below are some best practices to follow in order to protect marine life when participating in ocean activities like diving and snorkeling: 
+
+Don’t approach or intentionally touch the animals. Responsible tour operators will remind guests not to feed or pet curious aquatic life. You’re in their space, and they are wild animals, so they should be the ones to come up to you. Marine animals like turtles and whales can get stressed when people, especially in large groups, get too close. Wild animals who are being chased or feel threatened can bite or hurt themselves trying to escape. Give them space, and if they chose to come up to you, stay calm.
+Don’t lure animals. While feeding animals may seem tempting as a way for them to get closer to you, animals should be left to find food themselves so they can continue their natural behaviors and don't become dependent on humans for food. By feeding fish or other marine life, you can also cause them to become sick.
+Don’t take animals out of the ocean. Animals like starfish are not souvenirs. Whether alive or dead, these animals provide food for other organisms, and removing them can also allow invasive species to thrive.
+In general, stay clear of coral reefs. It can take years for reefs that are unintentionally damaged to repair themselves. These coral reefs are home to marine life that depend on them for food and shelter. Don't take any part of the reef off the structure and out of the ocean, and if using sunscreen, wait 30 minutes after putting it on to ensure it’s been absorbed by the skin. Sunscreen is one of the biggest killers of coral reefs by bleaching the coral, and it can also be toxic to animals that call the reef home. Protect yourself with reef-safe and animal-safe sunscreen.
+
+Conduct that violates our guidelines
+If you come across an Airbnb Experience that violates the Animal Welfare Guidelines, threatens the safety of our hosts or guests, or risks the welfare and/or conservation of animals, please contact us. If applicable, make a note of the date, time and location, as well as the type of animals involved.
+
+If we are made aware that an Airbnb Experience and/or host violates our platform policies, community standards, or terms of service, we take action including permanent removal from our community if warranted. We’re constantly reviewing and revising our platform policies and protections in order to make our community safer and higher quality."
+experience_equine,"For Airbnb Experiences and Adventures that include animals, Airbnb has partnered with World Animal Protection to provide guidelines and articles that seek to promote the safety of wild animals in the wild and in captivity, as well as domesticated animals under human care.
+
+Many cultures rely on working equines (like horses or donkeys) to get from one place to another, but it’s important to watch for animals who may be suffering. They should never be used for entertainment, including sporting events like horse racing, polo, or rodeos, or used for carriage rides in congested cities. While nature is best observed on foot, if you do ride horses or donkeys on an Airbnb Experience, be aware of signs of malnourishment and mistreatment.
+
+When interacting with domestic animals, the “Five Freedoms” should be followed. They are:
+
+Freedom from hunger or thirst with access to fresh water and an appropriate diet to maintain full health
+Freedom from discomfort by providing an appropriate environment including shelter and a comfortable resting area
+Freedom from pain, injury, or disease by treating animals respectfully and providing prompt access to veterinary care
+Freedom to express normal behavior by providing sufficient space, proper facilities, and allowing for company of the animal’s own kind
+Freedom from fear and distress by ensuring conditions and treatment which avoid mental suffering
+If you witness or participate in activities with working equines, consider the following:
+
+Working equines must be treated with consideration and given adequate shelter, exercise, veterinary care (including hoof care), and food and water appropriate to their physiological and behavioral needs. Horses and donkeys should not work more than 6 hours a day, and should have at least 2 non-working days each week.
+A horse or donkey should not carry more than 20 percent of their body weight, with a maximum of 50 kg (110 pounds) for small donkeys and 100kg (220 pounds) for larger mature donkeys. Animals should never be ridden if they are pregnant, sick, or have open wounds and sores. Mares should not be worked for at least 3 months after giving birth.
+Animals should not be worked in extreme weather conditions, including excessive heat or freezing temperatures, and should be alert to their surroundings. All working animals should have food and water readily accessible as well as adequate time to rest.
+
+Conduct that violates our guidelines
+If you come across an experience that violates the Animal Welfare Guidelines, threatens the safety of our hosts or guests, or risks the welfare and/or conservation of animals, or if you witness an animal suffering while taking an Airbnb Experience or Adventure, please contact us. If applicable, make a note of the date, time and location, as well as the type of animals involved in the experience.
+
+If we are made aware that an experience and/or host violates our platform policies, community standards, or terms of service, we take action including permanent removal from our community if warranted. We’re constantly reviewing and revising our platform policies and protections in order to make our community safer and higher quality."
+damages,"Accidents are rare, but they happen. If you, someone you invite, or a pet are responsible for damage during a stay, let your Host know right away.
+
+The best way to do this is by sending them a message through the Airbnb website or app, just in case our Community Support team needs to refer to it later. If you can provide photos, that’s great, too.
+
+Being upfront about damage gives your Host as much time as possible to fix it before their next guest arrives. It also gives you two a chance to find a resolution without Airbnb getting involved.
+
+About the reimbursement process
+1. Your Host may request reimbursement
+
+If your Host believes that you’re responsible for damage, missing items, or unexpected cleaning costs, they may send you a reimbursement request through our Resolution Center. You’ll have 24 hours to respond.
+
+If you pay the full amount, the request will be closed.
+If you pay a partial amount, decline the request, or ignore the request, your Host may involve Airbnb as a next step.
+2. Your Host may involve Airbnb
+
+If your Host involves Airbnb, a member of our Community Support team will determine if you’re responsible for the damage and if the amount your Host is requesting is reasonable. They’ll do this by reviewing evidence provided by your Host, as well as any notes you included in your initial response to your Host’s request. Someone may also follow up with you or others who may have information about the Host’s damage claim.
+
+3. Airbnb may ask you to pay
+
+You’ll be given the opportunity to voluntarily submit a timely payment or an appeal. If you don’t submit a timely payment or appeal, or your appeal is unsuccessful, your payment method will be charged. (This does not apply to stays in China, Japan, or India.) You’ll never be charged without advance notice or a chance to appeal before and after you’ve been charged. You’ll have 60 days to appeal after you’ve been charged.
+
+Dealing with damage is never fun, but this process is designed to be as fair as possible."
+book_missing,"Hosts can choose to hide their listing at any time from search results, usually to prevent new bookings.
+
+Before your reservation is confirmed, hosts are encouraged to confirm reservations quickly. But if you’ve sent a trip request and the listing is now hidden, you can contact the Host to find out if there’s a problem.
+
+After confirmation, if you have a confirmed trip, it's still active, even if your Host has hidden the listing.
+
+To find your itinerary, go to Trips and choose your trip under Upcoming. Then click or tap Show more trip plans.
+
+You and your Host can also still message through Airbnb to confirm details about check-in, checkout, and any additional information."
+experience_confirm,"When you book an Airbnb Experience, we'll send you a booking confirmation via email. 
+
+Having trouble finding it? Try checking your spam folder. You can also find your itinerary by visiting your Trips on our website or app."
+reserve_multiple,"If you have one reservation ending and another starting within 4 days, and the locations aren't far apart, we bundle them under a single trip.
+
+For example, you might have two upcoming reservations—one in Tulum for May 1, and one in Playa del Carmen for May 3. Because they’re only an hour’s drive apart, both reservations will appear under the same trip in Trips."
+reserve_guestname,"Go to Trips and select the reservation you’d like to update
+Click Manage Guests, enter the names of your additional guests, and click Next
+Click Save"
+payment_outside,"Some people may suggest that you chat on Facebook messenger, by text, or somewhere other than Airbnb. But if you do, you lose the protections of our cancellation and refund policies, Host damage protection, Host liability insurance, Terms of Service, Payments Terms of Service, and other safeguards.
+
+Leaving also makes it harder for us to protect your information and puts you at greater risk of fraud and other security issues, such as phishing.
+
+Pay your Host through Airbnb
+If you paid via wire or bank transfer it may be a fraudulent reservation. To get help, let us know immediately. You can always check if your reservation was booked through Airbnb.
+
+We protect you and the Airbnb community
+We do our best to keep you safe by reviewing messages on the Airbnb platform. We’ll block potentially dangerous messages that contain words or numbers that might include contact information or references to other sites, including external links.
+
+You can help. If you get a suspicious message, let us know by reporting it or flagging it in your inbox."
+resolution_help,"Need to send or request money for things related to your Airbnb trip or Airbnb Experience? No problem! When typing your input into the chatbot, a form wwill pop up on the bottom right corner of the scren for you to fill up your request or even click on the command buttons.
+
+You have up to 60 days after your reservation’s checkout date to submit a Resolution Center request.
+
+One thing to note: You may need to add a payment method before sending or requesting money through the Resolution Center."
+payment_plan,"Want to travel now and pay the rest later? Sounds good. 
+
+What stays are eligible for payment plans 
+You’ll find a payment plan option at checkout if your reservation meets the following criteria:
+
+You’re paying with a credit card, debit card, PayPal, Apple Pay, Google Pay, or Airbnb credits.
+You’re paying with a currency other than the Indian rupee (INR). Read more if you’re paying with the Brazilian real (BRL).
+The reservation has a total value of $50 USD or more, including taxes and fees, and minus any credits or coupons.
+The day your reservation starts is at least 14 days in the future (how far ahead you need to book is determined by the listing’s cancellation policy).
+The reservation isn’t a long-term stay of 28 nights or more.
+You’re not making an Airbnb for Work reservation.
+Keeping track of payments
+You’ll pay for part of your reservation once it’s confirmed, and future payments will be charged automatically on the dates listed at checkout.
+
+Your email receipt will include information on upcoming payments. We’ll also send an email reminder 3 days prior to each charge, along with a link to manage your payment settings so you can edit your payment method or pay early if you like.
+
+Cancellations
+If you cancel, or the next payment can’t be completed by the due date, you’ll receive a refund according to your reservation’s cancellation policy.
+
+Ex: Let’s say you cancel in time to receive a 50% refund, per the listing’s Strict cancellation policy. If only 50% of the reservation has been paid so far, no refund will be issued and the remaining 50% simply won’t be charged.
+
+Coupons, credits, and gift cards
+If you choose a payment plan during checkout, Airbnb credits, coupons, or gift cards will be applied first before the payment plan amount is calculated. Coupons, credits, or gift cards cannot be applied to the second payment, or any future payments.
+
+Ex: Say you booked a trip for a total of $200 and you have $50 gift credits on your account:
+
+During checkout, you’ll have the option to apply up to $50 in gift card credits
+If you choose to apply the full $50 gift credits, you’ll have the option to pay $75 during checkout and $75 at a later date for the remaining $150 balance
+You’ll also be required another form of payment as a backup—for example, a credit or debit card on file
+When it’s time to automatically charge the second payment, the backup payment method you chose during checkout (for example, the credit or debit card you choose in addition to paying with credits or a coupon) will be charged $75 even if you have remaining or newly acquired Airbnb credits on your account."
+payment_more,"Don’t worry: All pricing information is included when you book—but there are a few situations where you may owe more after paying:
+
+You change your reservation (ex: You add another guest)
+Your Host files an AirCover for Hosts request for damage that occurred during your Airbnb stay
+Your Host requires taxes be paid at check-in—this should be clearly stated in the listing prior to booking
+You booked a place, usually a hotel, that charges additional fees collected at check-in or within 48 hours of checkout—these must also be stated in the listing and your price breakdown prior to booking
+When to dispute  
+If a Host tries to charge you for something that wasn’t stated in the listing, the price breakdown, or their message thread, you can dispute it in the Resolution Center.
+
+How to pay
+If you agree with the charge, always pay the Host through the Resolution Center, never directly. Be sure to keep all payment transactions on Airbnb—otherwise, we can’t help with issues related to off-site or cash payments."
+payment_declinedtrip,"If your trip request expires or is declined by the Host, there’s no cost for the reservation or Airbnb service fees.
+
+Depending on your payment method, however, you may find a temporary authorization (a “hold”) or a refunded charge.
+
+If your payment method is authorized
+Some payment methods and locations require the full amount of the reservation to be authorized at the time of your request.
+
+If it’s accepted, the authorization will become an actual charge to be deducted
+If it’s declined or expires, the authorization will either disappear or appear as a refund—this may take up to 7 business days, depending on your bank
+If your payment method is charged
+Some payment methods or locations require the full amount of the reservation to be charged at the time of your trip request.
+
+If it’s accepted, the charge remains, and your reservation is confirmed
+If it’s declined or expires, you’ll be refunded automatically—this may take up to 10 days, depending on your bank"
+payment_longterm,"Planning to stay awhile? Fantastic. Here's how payments work for reservations of 28 nights or more:
+
+First-month down payment: You'll be charged this up front, but we’ll hold off on releasing it to the Host until 24 hours after check-in
+Monthly installments: We'll charge your second payment to the same payment method approximately 1 month after check-in, and each month thereafter for the duration of your reservation
+Your monthly price is locked in at the beginning of the reservation, and you can track your payment and find your total cost on your billing receipt."
+cancel_longterm,The long-term cancellation policy?is automatically applied to all reservations of 28 nights or more and generally?requires a 30-day notice.
+installment_early,"While it’s not required, you always have the option to pay upcoming monthly installments a little early, as long as it’s within 7 days before your payment is due.
+
+For example, if your payment is due on July 11, you’ll be able to pay as early as July 4 at 12am UTC.
+
+To find out when a payment is due:
+
+Go to Trips and select the reservation you want
+Click Show details
+Under Reservation details, click Get receipts and manage payments
+Go to Scheduled Payments and find the payment date"
+payment_verify,"After you've finished adding Payment Methods, we may send you a message saying that you need to verify it by submitting a credit or debit card statement. Need a recent statement? Try downloading it through your card issuer's website or mobile app.
+Your billing statement can be uploaded as a PDF or photo file. If you have a paper statement, take a photo of the first page that has your name and account information. If your statement is in digital form, take a screenshot, including the same information.
+
+Block out account balances and transactions—we just need the last four digits of the account number to be visible.
+
+We’ll email you within 24 hours after submission to let you know if you can use the credit or debit card on Airbnb."
+tipping,"Acknowledgment for a job well done is always appreciated, whether it’s a good review or a tip. Guests often choose experiences because of in-depth reviews, so you would help the entire Airbnb community if you share your thoughts.
+
+Cultural preferences around tipping differ, so research before you travel."
+payment_methods,"Payment options available in most countries
+Visa, MasterCard, Amex, JCB, and debit cards that can be processed as credit cards
+Apple Pay
+Google Pay
+PayPal
+Payment options available in certain countries
+Brazil
+Aura for Brazil
+Elo for Brazil
+Hipercard for Brazil
+China
+Alipay for Mainland China
+WeChat Pay for Mainland China
+India
+PayU for India
+Italy
+Postepay for Italy
+Germany
+Sofort Überweisung for Germany
+Netherlands
+iDEAL for the Netherlands
+United States
+Discover
+Offline or cash payments are a violation of our Terms of Service, and can result in removal from Airbnb. Off-site payments make it harder for us to protect your information, and put you at greater risk of fraud and other security issues."
+payment_edit,"Go to Trips and select the trip that you want to change
+Under What you've booked, select your reservation
+Under Payment details, click Get receipts and manage payments
+In Your payment details, go to Scheduled payments and select Update payment details
+Update your payment method and select when you want to pay
+Click Submit"
+payment_remove,"Go to Account settings > Payments & payouts
+Next to the payment method, click the three dots icon 
+Click Remove"
+payment_add,"Go to Account settings > Payments & payouts
+Click Add payment method"
+payment_default,"Go to Account settings > Payment methods
+Next to the payment method, click the three dots icon 
+Click Set Default"
+report_message,"Go to your Inbox and click the conversation with the suspicious message 
+Click the Flag icon  in the message
+Choose the reason you’re reporting the person and answer the questions that follow"
+payment_allowedoutside,"On occasion, a Host may collect certain authorized fees and taxes directly from guests using a payment method outside Airbnb.
+
+These fees must be detailed in the listing description and included in the price breakdown prior to booking, and are usually charged before the stay, at check-in, or within 48 hours of checkout.
+
+Additional fees:
+
+Security deposit: Hosts who manage their listings with API-connected software can set a security deposit using our offline fees feature. Learn more about security deposits.
+Resort fees: These may cover amenities like wifi or valet parking.
+Incidentals: This might include airport shuttle or parking fees.
+Local occupancy tax: In some areas, Hosts are legally required to collect this in person. Find out more about how taxes work for guests."
+payment_multiplem,"Let’s keep things simple. Unless you have Airbnb credits or a coupon to use, you can’t split the total cost of your Airbnb stay or experience across multiple payment methods. Meaning, you can’t pay using two different credit cards."
+payment_confirm,"Go to Payment Methods
+Review the payment options listed there
+If a card needs to be confirmed, select Confirm card
+Follow the steps to confirm the card
+Keep in mind that your card will need to be confirmed before you can complete an in-progress reservation or make any other new reservations. Any existing reservations won’t be affected."
+payment_currency,"Airbnb supports a number of different currencies to give you more flexibility when you host or stay with us. Choose to pay with your preferred currency when you enter your payment info, or change your default currency at any time. Depending on your payment method, some currencies may not be available.
+
+Currency conversion
+Airbnb displays prices in the currency you selected. If you change the currency at any point while booking, the price will automatically update in the new currency. When you’re ready to finalize your reservation, the checkout page will also show the new currency.
+
+Third-party fees
+If you choose to use a currency that doesn’t match your default payment method, your bank or credit card company may apply currency conversion fees to your payment. Airbnb isn’t responsible for these fees, so please contact your bank or credit card company to learn more.
+
+Cross-border fees
+When extra fees appear on your bank statement, or the amount charged differs from what was shown on the Airbnb checkout page, this might be why: If your bank or credit card company classifies Airbnb's processing entity as international, it may charge cross-border fees—even if the charge was processed in the standard currency of your payment method.
+
+Airbnb doesn’t manage and can’t refund these fees, so please contact your bank or credit card company to learn more."
+payment_paypal,"Depending on the currency you're paying with, PayPal may be available as a payment method. If PayPal is available, you'll be able to select it on the checkout page. If you don’t see PayPal as an option, you’ll need to either switch to an eligible currency or select a different payment method.
+
+Once you select PayPal as your payment method, a new browser window will pop-up and you’ll be taken to the login screen on the PayPal site:
+
+Log in to your PayPal Account
+Choose one of your linked payment methods (ex: a credit card or bank account) under Choose a way to pay
+Click Continue
+Confirm the payment method, read PayPal’s policies, then click Agree & Continue
+You’ll be taken back to Airbnb’s checkout page where you can confirm and pay for your Airbnb reservation.
+
+Once the payment for the full amount of the reservation is authorized by PayPal, your reservation request will be sent (or your Instant Book reservation will be confirmed). You'll only be charged once your reservation is confirmed. If your reservation request is canceled, declined, or it expires, the PayPal authorization will be voided and you won't be charged.
+
+You may need to link a bank account or credit card to your PayPal account to complete your Airbnb reservation. This alternate payment source will only be used if your primary method doesn’t go through. The PayPal website has more information about selecting a preferred payment method."
+payment_payu,"Depending on the currency you're paying with, PayPal may be available as a payment method. If PayPal is available, you'll be able to select it on the checkout page. If you don’t see PayPal as an option, you’ll need to either switch to an eligible currency or select a different payment method.
+
+Once you select PayPal as your payment method, a new browser window will pop-up and you’ll be taken to the login screen on the PayPal site:
+
+Log in to your PayPal Account
+Choose one of your linked payment methods (ex: a credit card or bank account) under Choose a way to pay
+Click Continue
+Confirm the payment method, read PayPal’s policies, then click Agree & Continue
+You’ll be taken back to Airbnb’s checkout page where you can confirm and pay for your Airbnb reservation.
+
+Once the payment for the full amount of the reservation is authorized by PayPal, your reservation request will be sent (or your Instant Book reservation will be confirmed). You'll only be charged once your reservation is confirmed. If your reservation request is canceled, declined, or it expires, the PayPal authorization will be voided and you won't be charged.
+
+You may need to link a bank account or credit card to your PayPal account to complete your Airbnb reservation. This alternate payment source will only be used if your primary method doesn’t go through. The PayPal website has more information about selecting a preferred payment method."
+payment_alipay,"Depending on the currency you're paying with, PayPal may be available as a payment method. If PayPal is available, you'll be able to select it on the checkout page. If you don’t see PayPal as an option, you’ll need to either switch to an eligible currency or select a different payment method.
+
+Once you select PayPal as your payment method, a new browser window will pop-up and you’ll be taken to the login screen on the PayPal site:
+
+Log in to your PayPal Account
+Choose one of your linked payment methods (ex: a credit card or bank account) under Choose a way to pay
+Click Continue
+Confirm the payment method, read PayPal’s policies, then click Agree & Continue
+You’ll be taken back to Airbnb’s checkout page where you can confirm and pay for your Airbnb reservation.
+
+Once the payment for the full amount of the reservation is authorized by PayPal, your reservation request will be sent (or your Instant Book reservation will be confirmed). You'll only be charged once your reservation is confirmed. If your reservation request is canceled, declined, or it expires, the PayPal authorization will be voided and you won't be charged.
+
+You may need to link a bank account or credit card to your PayPal account to complete your Airbnb reservation. This alternate payment source will only be used if your primary method doesn’t go through. The PayPal website has more information about selecting a preferred payment method."
+payment_sofortuberweisung,"Depending on the currency you're paying with, PayPal may be available as a payment method. If PayPal is available, you'll be able to select it on the checkout page. If you don’t see PayPal as an option, you’ll need to either switch to an eligible currency or select a different payment method.
+
+Once you select PayPal as your payment method, a new browser window will pop-up and you’ll be taken to the login screen on the PayPal site:
+
+Log in to your PayPal Account
+Choose one of your linked payment methods (ex: a credit card or bank account) under Choose a way to pay
+Click Continue
+Confirm the payment method, read PayPal’s policies, then click Agree & Continue
+You’ll be taken back to Airbnb’s checkout page where you can confirm and pay for your Airbnb reservation.
+
+Once the payment for the full amount of the reservation is authorized by PayPal, your reservation request will be sent (or your Instant Book reservation will be confirmed). You'll only be charged once your reservation is confirmed. If your reservation request is canceled, declined, or it expires, the PayPal authorization will be voided and you won't be charged.
+
+You may need to link a bank account or credit card to your PayPal account to complete your Airbnb reservation. This alternate payment source will only be used if your primary method doesn’t go through. The PayPal website has more information about selecting a preferred payment method."
+payment_fail,"Is your transaction not going through? This can happen for a number of different reasons, including:
+
+Your credit or debit card has expired
+You’ve exceeded the daily withdrawal or purchase limit set by your bank or credit card company 
+The billing address and phone number you entered don’t match the billing address and phone number associated with your credit or debit card
+Fraud prevention
+Your credit or debit card doesn’t have sufficient funds to make the payment
+Contact your bank or credit card company for more information."
+payment_card_decline,"Credit cards can be declined for a number of reasons. Airbnb generally isn't notified of the specific reason.
+
+Common issues
+Check that you're entering your credit card number and billing address correctly, that your card has available funds, and that your card hasn't expired.
+
+Contact your bank or card issuer
+If you're getting an error when you try to pay, we recommend reaching out to your bank or credit card company for more information. Inform them of the amount and when tried to make the charge so they can let the transaction go through.
+
+If your bank or card issuer isn't able to help, you may want to try another payment method."
+payment_charge_twice,"If your payment method is authorized
+Some payment methods or locations require that the full amount of the reservation is authorized at the time of your request. If your reservation is accepted, the authorization will turn into a real charge and the amount will be deducted from your payment account.
+
+If the reservation request is declined or expires, you’ll either see the authorization disappear altogether or appear as a refund in your payment account. Depending on the processing time of your bank, the release of the authorization may take up to 7 business days.
+
+If your payment method is charged
+Some payment methods or locations require that the full amount of the reservation is charged at the time of your request. If your reservation request is accepted, the charge remains and your reservation is confirmed.
+
+If the reservation request is declined or expires, you’ll be refunded immediately and automatically. Depending on the processing time of your bank, the refund may take up to 10 calendar days to process."
+payment_hold,"When you submit a reservation request, we may place a hold on your payment method, called an authorization, for the full amount of the reservation.
+
+If your reservation is accepted, the authorization will turn into a real charge and the amount will be deducted from your payment account.
+
+If your request is declined or expires, the authorization will disappear or appear as a refund in your payment account. Depending on the processing time of your bank, the release of the authorization may take up to 7 business days."
+payment_chargeback,"When someone disputes a charge with their bank, a dispute process called a chargeback is initiated.
+
+What’s a chargeback?
+A chargeback is a formal payment dispute initiated by a consumer with their bank.
+
+Chargebacks are usually filed by someone when they’ve noticed what they believe to be an unauthorized, incorrect, or unexpected charge on their account.
+
+If you’ve filed a chargeback, you’ll need to contact your bank for more details on how their particular process works.
+
+What happens once a chargeback has been filed and the dispute process begins?
+Once a chargeback has been filed, it can take up to 90 days for the bank to resolve it. You can check the status of this process, or cancel it, by working with your bank.
+
+While the chargeback process is ongoing, your bank may temporarily deposit the disputed amount into your account—it’s important to note that this amount comes directly from your bank, not Airbnb. If it’s determined that the charge from Airbnb was valid, then these funds may be taken back by the bank.
+
+Will I still be refunded by Airbnb if I disputed a charge?
+When a chargeback is filed, Airbnb is no longer able to resolve the dispute with you directly, and any refund you receive will come from your bank and not from Airbnb."
+refund_find,"In most cases, your refund amount depends on your reservation’s cancellation policy and when you cancel.
+
+You can find the refund amount and cancellation policy specific to your reservation by starting to cancel your stay or your Experience.
+
+You can also learn about the cancellation policy for your reservation by going to Trips and selecting your trip, or by reviewing your reservation confirmation email.
+
+You may be entitled to a full refund or one larger than the standard refund of your Host’s cancellation policy if:
+
+You have to cancel because of an extenuating circumstance
+You have to cancel because of a qualifying reason covered by the Airbnb Rebooking and Refund Policy
+During your stay, you’re experiencing an issue covered by the Airbnb Rebooking and Refund Policy
+
+f your plans changed due to COVID-19, check if the Extenuating Circumstances Policy applies to your reservation.
+
+Refunds for canceled stays due to COVID-19 require proof of illness or exposure within 14 days of check-in. Ex:
+
+Positive COVID-19 test
+Doctor’s note
+Notice from local government saying you've been exposed
+Screenshot of notification from a contact tracing app
+Positive test result from a member of your household"
+refund_when,"Good news—if you’re eligible for a refund, you’ll get it automatically within 10 days. Maybe even sooner.
+
+We'll send your refund as soon as you cancel to the payment method you used when you booked the reservation, but your bank or credit card issuer may take longer to get it to you. It all depends on how you paid and where you live:
+
+24 hours
+
+Airbnb for Work credit
+Airbnb gift credit
+Hongbao credit
+PayPal
+1 business day
+
+Alipay
+WeChat Pay
+Up to 5 business days
+
+iDEAL
+Sofort Überweisung
+Up to 15 business days
+
+Major credit cards, including prepaid credit and debit cards
+Other payment methods
+Apple Pay
+Google Pay
+Postepay
+Up to 2 credit card statements
+
+Aura
+Elo
+Hipercard
+Major credit cards in Brazil only
+Note: If your original payment method’s account was closed, the refund sent by Airbnb won’t be processed. If this happens, we’ll contact you and you’ll have the option to update your payment method."
+refund_auto,Eligible refunds will be processed as soon as you click cancel. We automatically process the refund through the payment method you used when you booked the reservation.
+refund_request,"If you’d like to request a refund before or after your trip, refund requests of any amount can be handled through our chatbot. You can just click on the commands or type in your request you want to make and a form will pop up on the right corner of your screen at the bottom.
+
+We recommend discussing any refund amounts with your Host through your Airbnb message thread before submitting a request in the Resolution Center. However, if you and your Host aren’t able to come to an agreement, you'll have the option to ask Airbnb for help finding a solution. Issues must be reported to Airbnb with 72 hours of discovery to be eligible under our Rebooking and Refund Policy
+
+If you’re experiencing an issue during your stay, we’ll help you ask your Host to fix it, request a refund, or request to cancel for a full refund. It’s important to submit the request within 24 hours of noticing the travel issue. Your Host will have 1 hour to respond. If they decline or don’t respond, you can ask Airbnb to step in to help."
+refund_eligible_travel,"Some travel issues need a little extra help. If you are experiencing any of these, you are most likely covered by the Rebooking and Refund Policy:
+
+No access to the listing, for instance, if the Host provided the wrong lockbox code and now they can’t be reached
+Space isn’t safe or clean upon arrival, such as dirty linens, or safety hazards
+Key amenities are missing or not working, for example, that pool you were fantasizing about is in disrepair
+Place isn’t as it was described in the listing description, maybe the number of rooms or beds is different, or accessibility features are missing
+
+If you need to submit a claim, make sure to:
+
+Gather evidence: Document issues with photos or videos
+Contact us: Message or call Airbnb within 24 hours of having an issue
+Stay in touch: We’ll reach out with next steps specific to you"
+refund_expedite,"Unfortunately, this one’s out of our hands. It all depends on your payment method’s processing time."
+refund_cancellation,"You were all set to travel and now something’s come up. Find out how to cancel your stay or Experience. And please note that your refund is subject to the Host’s cancellation policy.
+
+Your refund amount may also be affected by:
+
+Cleaning fees: Always refunded if you cancel before check-in.
+Airbnb service fees: Service fees are refunded if you cancel during the free cancellation period for your reservation. 
+On-site property fees: If a hotel or other professional Host collects property fees on-site, any refund of those fees is at the discretion of the Host."
+fee_airbnb_service,"To help Airbnb run smoothly and to cover the cost of services like 24/7 customer support, we charge a service fee when a booking is confirmed.
+
+There are 2 different fee structures for stays: a split-fee and a Host-only fee.
+
+1. Split-fee
+This fee structure is the most common and is split between the Host and the guest.
+
+Host fee
+Most Hosts pay a 3% fee, but some pay more, including:
+
+Airbnb Plus Hosts
+Hosts with listings in Italy
+Hosts with Super Strict cancellation policies
+This fee is calculated from the booking subtotal (nightly rate + cleaning fee + additional guest fee, if applicable—excluding Airbnb fees and taxes) and is automatically deducted from the Host payout.
+
+To review the service fee for a booking:
+Go to Transaction history
+Select the reservation code
+Under Payout, find the Airbnb Service Fee
+Guest fee
+Most guest service fees are under 14.2% of the booking subtotal (nightly rate + cleaning fee + additional guest fee, if applicable—excluding Airbnb fees and taxes). This fee varies based on a variety of factors and is shown during checkout before you book so you know what to expect.
+
+2. Host-only fee
+With this structure, the entire fee is deducted from the Host payout. It’s typically 14–16%, though Airbnb Plus Hosts and Hosts with Super Strict cancellation policies may pay more. 
+
+This fee is mandatory for traditional hospitality listings–such as hotels, serviced apartments, etc., as well as software-connected hosts (unless most of their listings are in the USA, Canada, the Bahamas, Mexico, Argentina, Taiwan, or Uruguay).
+
+All Hosts with API connection will be enrolled to Host Only Fee and will not be able to opt-out.
+
+VAT charges
+Depending on the laws of the jurisdiction involved, a VAT may be charged on top of the above fees. The service fee includes the VAT where applicable.
+
+We reserve the right to change our service fees at any time, and will provide you with prior notice of any fee changes before they become effective. Any fee changes will not affect bookings made prior to the effective date of the fee change."
+pricing,"The total price of your Airbnb reservation is based on the nightly rate set by the Host, plus fees or costs determined by either the Host or Airbnb.
+
+Types of fees
+Airbnb service fee: Guest service fee charged by Airbnb—this provides 24/7 community support and helps everything run smoothly.
+
+Cleaning fee: Charged by some Hosts to cover the cost of cleaning their space.
+
+Extra guest fee: Charged by some Hosts for each additional guest beyond a set number.
+
+Security deposit: Hosts who manage their listings with API-connected software can set a security deposit using our offline fees feature. Learn more about security deposits.
+
+Value Added Tax (VAT, JCT, and GST): Charged to guests who live in certain countries—find out more about VAT.
+
+Local taxes: Charged based on the location of the Host's place—find out more about local taxes.
+
+Payment
+You’ll be charged once a Host accepts your reservation request, or immediately if you use Instant Book. You may be able to split the total cost of your reservation across multiple payments if your reservation meets specific criteria, or you can pay the full amount in one go."
+fee_service_refund,"If you need to cancel (It’s okay, things happen!), you may be able to receive a refund on your entire reservation, including the service fee. So how does it work? 
+
+Most importantly: check your reservation’s cancellation policy to find out if the service fee is refundable. The service fee is refundable if you cancel before your reservation’s free cancellation period ends (or any time before check in, for reservations in Italy and South Korean travelers in some cases) or if the host decides to refund you in full after you cancel. 
+
+Refunds for nightly rates and other fees
+Your Host’s cancellation policy still applies to any other fees associated with your reservation."
+pricing_accurate,"Just as planning a trip in July differs greatly from one in February, so can the price. 
+
+To see the most accurate price for your trip, add dates when searching for a place. Why? Because some Hosts have custom prices that override the default or minimum price for specific dates or time periods (including holidays, weekends, and week-long or month-long reservations).
+
+If your Host updates the pricing for their place before you request the change, your new reservation will reflect this pricing."
+pricing_cross,"Good news! You’re being offered a great deal. We only cross out a price when the one being offered is at least 10% lower than usual for a particular night. Who doesn’t love knowing they’re on to a good thing?
+
+Types of discounts
+Weekly or monthly discount: Hosts sometimes offer discounts on the nightly price for stays that are at least 7 days long.
+Early bird discount: Hosts can offer a discount on the nightly price when guests book a certain number of days prior to their trip. For example, a Host might set a 15% discount for stays booked at least 2 months in advance.
+Price drop: Hosts lower their price for specific dates that they choose.
+How we calculate true discounts for price drops
+We track all Host’s prices over time. By looking at the median price over the previous 30 days, we work out each Host’s average price. If a Host drops their price by 10% or more below the median for a particular date, we highlight the saving by crossing out the original price.
+
+How it works
+Let’s say you search for a night in June. We can see that over the last 30 days, the Host has changed the price for that night on 4 different occasions. We calculate the median price for this night by adding the middle 2 prices together, and dividing them by 2.
+
+Price 1: $90
+Price 2: $100
+Price 3: $125
+Price 4: $140
+
+Median price: ($100 + $125) / 2 = $112.50
+
+Next, we compare this median price to the current price of the night you searched for. If the current price is at least 10% less than the median ($112.50 in this example), we show you the median price crossed out, next to the discounted price.
+
+Ex: $112.50 $100"
+pricing_night,"If you submitted a trip change request to your Host and they accepted, your reservation will be updated to reflect the changes at your Host’s current daily rate. As with any hotel or B&B, your Host may have raised (or even lowered, if you’re lucky) the prices since you originally booked your reservation."
+fee_cleaning,"Who doesn’t like arriving into a clean and tidy space? A cleaning fee is a one-off charge for cleaning the space you stay in and is set by the Host. It’s an extra amount on top of the nightly rate when you book a listing. This fee covers the extra expenses Hosts incur when getting their place ready for guests to arrive or after they leave. 
+
+Things to know about cleaning fees
+In the listing search results, you'll notice a nightly rate that includes the cleaning fee divided by the total number of nights of the trip. When you make a trip request, the nightly rate and the cleaning fee will be listed separately in the price breakdown.
+The cleaning fee is part of the booking total and is not returned to guests at the end of the trip."
+coupon_how,"Make sure you apply the coupon before you book, and keep in mind that if you cancel a reservation, the coupon can’t be used again.
+
+To use your coupon:
+Click Enter a coupon (below your payment method) on the checkout page
+Choose a coupon or enter your coupon code and click Apply
+Additional details
+You can’t apply a coupon after you book: Even if you contact Airbnb Support, we can’t apply a current or expired coupon after you’ve booked a reservation (future or past).
+If you cancel, coupons are not refundable: Refunds are based on the host’s cancellation policy, and we can’t restore or reissue a coupon you redeemed in the past.
+Expiration dates can’t be adjusted: Once a coupon has expired, it’s not possible to extend the expiration date or to get a replacement coupon. Expired coupons can't be used toward past reservations.
+Limit one coupon per reservation: There’s no way to apply multiple coupons."
+coupon_general,"Make sure you apply the coupon before you book, and keep in mind that if you cancel a reservation, the coupon can’t be used again.
+
+To use your coupon:
+Click Enter a coupon (below your payment method) on the checkout page
+Choose a coupon or enter your coupon code and click Apply
+Additional details
+You can’t apply a coupon after you book: Even if you contact Airbnb Support, we can’t apply a current or expired coupon after you’ve booked a reservation (future or past).
+If you cancel, coupons are not refundable: Refunds are based on the host’s cancellation policy, and we can’t restore or reissue a coupon you redeemed in the past.
+Expiration dates can’t be adjusted: Once a coupon has expired, it’s not possible to extend the expiration date or to get a replacement coupon. Expired coupons can't be used toward past reservations.
+Limit one coupon per reservation: There’s no way to apply multiple coupons."
+coupon_not_working,"Double-check to make sure you’re using the right code. If it’s still not working, keep these things in mind:
+
+If a coupon has expired, there’s no way to reactivate it.
+Only one coupon can be used per reservation.
+A coupon can only be used once. If you cancel a reservation that was booked using a coupon, the coupon is no longer valid.
+For reservations of 28 nights or more, of if you choose a payment plan when you book, a coupon will reduce the total price and the amount will be split across payments.
+Only coupons issued by Airbnb are accepted.
+If you use less than the full amount of a coupon, any unused discount amount will be forfeited.
+Coupons can't be applied to a reservation you made in the past.
+Only the person who received a coupon can use it on Airbnb. There’s no way to transfer a coupon to someone else.
+Coupons can only be used for the type of booking they were issued for. For example, if a coupon can only be used toward a stay, then it can't be used toward an experience, or for anything else on Airbnb.
+If a reservation booked with a coupon is altered later on, you'll need to pay the difference with your payment method, or, if the alteration results in a refund, we'll credit your payment method for the difference. However, you won't receive a refund for the coupon amount, and the coupon won't be able to be used again.
+A coupon may have specific limitations; see the Terms & Conditions distributed with the coupon for details."
+coupon_host_cancel,"If your host cancels a reservation you used a coupon on, your coupon code will remain active and can be used toward another reservation."
+coupon_terms,"The following Terms and Conditions apply to coupons for use on the Airbnb platform (“Airbnb Coupons''). Other supplemental terms provided, along with a coupon, also apply to your use of Airbnb Coupons. Airbnb Coupons are one-time use and non-refundable. Coupons are not redeemable for cash, gift cards, or toward previous purchases, and cannot be transferred or combined with another offer, coupon, or discount. Airbnb reserves the right to any remedy, including voiding this coupon, in cases of suspected fraud, misuse, violation of our Terms of Service, Payments Terms of Service, or technical errors. Please refer below for additional terms for specific Rebooking Coupons.
+
+Rebooking Coupons
+As part of AirCover, when a Host cancels your reservation unexpectedly or another Travel Issue disrupts a stay, Airbnb may issue you a Rebooking Coupon. The coupon is only valid for a stay with a check-in date within one year from the date the coupon was issued.
+
+Rebooking Coupons expire 30 days from issuance. For more information, refer to your communication from Airbnb on the expiration date of your coupon. Rebooking Coupons may only be used toward a stay reservation with a reservation value (not including taxes or fees) that is equal to or greater than the value of the Rebooking Coupon."
+credit_referrals,"If you earned travel credit by joining Airbnb through an invite link
+If you signed up for Airbnb using a referral link, your referral coupon will automatically appear on the checkout page when you pay for your first qualifying reservation.
+
+You must have a qualifying reservation to be eligible for referral travel credit. A qualifying reservation must meet a minimum value, which does not include any taxes or fees. Because the minimum amount can vary, you should refer to the invitation email you received or go to the invitation page to see which details about which reservations are eligible.
+
+If you earned travel credit by inviting a friend to join Airbnb
+If your friend signed up for Airbnb using your referral link and completed a qualifying reservation, travel credit will be automatically added to your account. Your travel credit will appear on the checkout page when you pay for your next reservation.
+
+Remember, you’ll get travel credit once your friend completes a qualifying trip. If your travel credit hasn’t shown up yet, it means your friend has not completed their trip yet or their reservation didn’t qualify."
+credit_missing,"If you signed up for Airbnb using a referral link, a referral coupon should automatically appear on the checkout page when you pay for your first qualifying reservation. Read more about qualifying reservations and travel credit.
+
+If your referral coupon doesn’t appear, you can follow these steps to retrieve your credit. You’ll need the referral link you received, which could be in your email, text messages, or from a social media post. Alternatively, you can use the email address of the person who referred you—but that will only work if it’s the same email address they use for their Airbnb account."
+gift_card_wtb,"You can get Airbnb gift cards in stores and online, or directly from us! Depending where you buy your gift card, you can get a physical card or digital card sent to you or your recipient. Right now, gift cards are only available in the following countries:
+
+Australia
+Austria
+Belgium
+Canada
+Finland
+France
+Germany
+Ireland
+Italy
+Mexico*
+Netherlands
+New Zealand
+Spain
+Sweden
+United Kingdom
+United States
+* - Gift cards are only available for purchase through third-party retailers
+
+Important info: Currently, gift cards can only be purchased for someone within the same country or region as you, and the recipient must have a valid payment method within that country.
+
+If you’re in a country within the European Economic Area (EEA) region—France, Italy, Spain, Germany, Austria, Belgium, Finland, Ireland, Netherlands, and Sweden—you can purchase a gift card for someone else in one of those EEA countries as long as the recipient has a valid payment method within that country.
+
+Once the gift card is redeemed, it can be used for any stay or Experience around the world."
+invoice_vat_guest,"You can access individual VAT invoices for each reservation or download VAT invoices in bulk in the regions where Airbnb generates VAT invoices.
+
+To access a VAT invoice for a reservation:
+Go to Reservations (you’ll need to log in to your account on a desktop computer or browser)
+If the reservation you're looking for isn't displayed, click the Completed tab
+Click the three dots next to the reservation
+Select VAT Invoice
+To access VAT invoices in bulk for your reservations:
+Go to Reservations (you’ll need to log in to your account on a desktop computer or browser)
+Select Export
+Select Download VAT invoices
+Choose your File type (CSV or PDF format) and select the Month you wish to download
+Select Download
+Note: The bulk download will include VAT invoices for reservations with start dates that occur within the selected month.
+
+If you add a verified VAT ID number to your account, it will be included on VAT invoices created thereafter. For reservation details, check your Host confirmation."
+receipt_add_info,"Once a receipt has been issued, you can’t make additions or edits to it. Your billing receipt is based on the information you provide at the time of booking.
+
+You can, however, make changes to your itinerary after you’ve booked. This includes adding information like:
+
+Guest names and number (editable until your reservation ends)
+Business or billing addresses (editable at any time)
+Passport numbers
+Date of birth
+Guest names
+Tax identification numbers"
+receipt_find,"Go to Trips and select the trip you’d like a receipt for
+Click Show more trip plans
+In Show details, click Get receipts
+Choose a payment and click Get receipt"
+concur_triplink,"Link your accounts
+To link your Airbnb and Concur TripLink accounts:
+
+Go to Airbnb in the Concur App Center, and click Connect
+Log in to your existing Airbnb account or, if you don’t already have an account, create a new one
+Once your accounts are linked, you can have the receipt for any Airbnb reservation appear in your Concur account by marking the box next to Send this booking to Concur on the reservation request checkout page.
+
+"
+concur_triplink_unlink,"You'll need to unlink your accounts by logging in to your account using a browser (not using the Airbnb app).
+
+To unlink your Airbnb and Concur TripLink accounts:
+
+Go to Account
+Select Settings
+Under Unlink From Concur, click Unlink"
+eGUI,"A Taiwan Electronic Government Uniform Invoice (eGUI) is provided whenever Taiwan VAT is assessed on Airbnb service fees or on the accommodation price plus any fees for other items, such as cleaning and extra guests.
+
+Airbnb collects VAT on the guest service fee from guests who reside in Taiwan. Airbnb also collects VAT on the full accommodation price plus any fees for other items, like cleaning fees or fees for extra guests, if applicable, from all guests staying in Taiwanese listings.
+
+An eGUI is finalized and issued when a reservation is accepted, and includes your information (name and email address) as you entered it for your Airbnb account. Airbnb is not able to modify an eGUI after it's been issued.
+
+Guests
+To access the eGUI for your reservation, a notification will be sent to the email address associated with your Airbnb account indicating the eGUI is ready for download at the Taiwan Ministry of Finance e-Invoice Platform. You’ll also receive an email notification when a booking has been accepted, altered, and/or cancelled and Taiwan VAT applies. Accessing the eGUI on the e-Invoice Platform for your reservation is optional.
+
+For reservation details, please check your billing receipt. If you believe you need additional documentation for travel, we encourage you to communicate with your host before booking to see if they're able to assist you."
+receipt_brazil,"For Hosts
+You can access your individual receipts for each booking.
+
+To access a booking receipt:
+
+Go to the Today tab and click Show all to access your Reservation (you will need to access your account on a computer or browser)
+Click Details on the reservation you want
+Click Print to view and print the details of a reservation
+To access your bulk booking receipts:
+
+Go to Menu and select Transaction History (you will need to access your account on a computer or browser)
+Click Export to CSV to download the file
+For guests
+To access your booking receipt:
+
+Go to Trips and choose your trip (you will need to access your account on a computer or browser).
+Click Your Accommodation Booking. If you are already on your trip, you may need to click on the check-in date.
+Click Get Receipt.
+You can also receive your receipt via your booking confirmation email by selecting Payment Information and clicking or tapping Get Receipt.
+
+A link to the receipt is also available in the email receipt, under the Airbnb service fee.
+
+To learn more about the reservation, review the billing receipt. If you believe you need additional documentation to travel, we recommend that you communicate with your Host before confirming your reservation to see if they can help."
+invoice_brazil,"When closing an operation through Airbnb, the system will automatically generate a receipt, which is accessible in your profile on the Airbnb platform. This receipt has no effect for tax purposes, but you can use it to prove your reservation and payment.
+
+Airbnb will only issue an invoice for the Airbnb service fees (NFS-e) in accordance with the legislation in force and under the terms of the Special Regime Authorization - SEI no 6017.2021/0025032-5 published by the municipality of São Paulo.
+
+Attention: Airbnb will not issue any invoice regarding the total value of the accommodation."
+vat_how,"Value Added Tax (VAT) is a tax assessed on the supply of goods and services. In certain countries, such tax may be referred to as Goods and Services Tax (GST), service tax, or consumption tax (collectively referred to as “VAT” in this article). 
+
+Depending on your country of residence or location of listing, Airbnb is required to apply VAT to Airbnb service fees on your reservation in countries that tax electronically supplied services. 
+
+VAT is charged on the guest service fee for a reservation. If you change your reservation, VAT adjusts to reflect any change in the service fee.
+
+VAT is charged on the host service fee for a reservation. If a reservation is changed, VAT adjusts to reflect any change in the service fee.
+
+Depending on your country of residence or location of your listing, you may need to assess VAT (or other taxes such as occupancy taxes) on the accommodation and/or experience services you provide to guests. Learn more about how taxes work for hosts.
+
+We encourage you to consult your tax advisor if you need assistance assessing VAT on the services you provide."
+vat_add,"Within the EU
+You can add your VAT ID number whether you’re a Host operating as a business or a guest paying with an employer’s payment method.
+
+When your VAT ID number is successfully verified by the European Commission through the VAT Information Exchange System (VIES), you won’t be charged VAT on our service fees. It will be your responsibility to self-assess whether you need to pay VAT for the use of our services.
+
+Outside the EU
+The VAT ID number may be known under a different name based on your place of registration:
+
+Australia - ABN, ACN
+Belarus - ???
+Canary Islands - IGIC
+Colombia - VAT
+Iceland - VSK/VASK
+Indonesia – NPWP
+Japan - JCT
+New Zealand - GST
+Norway - VAT
+Saudi Arabia - TRN
+Serbia - PIB
+Singapore - GST / UEN / NRIC
+South Korea - BRN
+Switzerland - VAT
+Taiwan - VAT
+Thailand – TIN
+Turkey - VAT
+United Arab Emirates - TRN
+As within the EU, it will be your responsibility to self-assess whether you need to pay VAT for the use of our services, and you want to consider updating your pricing.
+
+In Switzerland, Japan, and Indonesia, the presence of a VAT ID will not exempt you from VAT charges applied to service fees based on local law.
+
+To add your VAT ID number
+
+Go to Account > Payments & payouts > Taxes
+Click Add VAT ID Number
+Enter your VAT ID number verification information
+Click Add
+
+If your VAT ID number isn’t successfully verified by the European Commission, you may want to try re-entering it. Airbnb isn’t able to associate a VAT ID number with your account without this verification, and we can’t troubleshoot problems. For a list of correct formats for VAT ID numbers by member state and additional information, please see the European Commission's VIES FAQ.
+
+If your VAT ID number can’t be verified and you determine you need to self-assess VAT on our service fees, we encourage you to consult a tax advisor for assistance."
+vat_tax_exemption,"Some municipalities exempt travelers from the tourism tax or allow for a reduction in the amount based on their circumstances. Examples include children, residents of the municipality, or travelers visiting a relative in the hospital. Here’s more detail on a few popular destinations:
+
+France
+Germany
+Italy
+Lithuania
+Portugal
+Switzerland
+To find out if you qualify for a refund or a reduction, visit the municipality’s tourist tax webpage or contact its tax or treasury office."
+browser_best,"For the best experience using the Airbnb site, we suggest using the most up-to-date version of Google Chrome, Mozilla Firefox, Microsoft Edge, or Opera.
+
+Browser developers frequently make improvements to provide you with a faster, more secure online experience. Newer browsers also support a wider range of designs and features than older browsers.
+
+Many features of the Airbnb website don't work with an outdated or unsupported browser—and we often can't provide technical support in this case."
+account_signin_apple,"Sign in with Apple allows you to use Face ID or Touch ID instead of a password on Airbnb. Returning users can log into their accounts with one-click.
+
+Sign in with Apple is currently available only for creating new Airbnb accounts. If you already have an Airbnb account, please log into your account as you normally would.
+
+You can also use Sign in with Apple with a web browser or Android phone when creating a new account. Check out Apple’s support page for how to do this on other platforms.
+
+If you used an email address to sign up
+From a web browser or Android device, click Log in and then Forgot password?
+Enter the email address associated with your Apple ID and click Send reset link.
+Follow the instructions in your email to set an Airbnb password on your account.
+You can now use your Apple ID email address and your Airbnb password to log into your account. You can still use one-click Sign in with Apple on iOS devices.
+
+If you used an Apple forwarding email address to sign up, please review Apple’s support page for how to do this."
+account_signin_apple_deactivate,"
+On your iOS device, go to Settings and click on your name (the first menu item).
+Click on Password & Security and then Apps Using Your Apple ID.
+Click on Airbnb and then on Stop Using Apple ID.
+Confirm your selection by clicking Stop Using a second time.
+Please note that this does not delete your Airbnb account but just de-couples your Apple ID from your Airbnb account."
+account_china,"Airbnb operates our business in the People's Republic of China (which for these purposes, excludes Hong Kong, Macau, and Taiwan) (“China”) through Airbnb Internet (Beijing) Co., Ltd. (“Airbnb China”).
+
+If you reside in China:
+
+Under our Terms of Service, you'll contract with Airbnb China, except when booking a Host Service or creating a Listing outside of China—for those transactions, you'll contract with Airbnb Ireland.
+Under our Payments Terms of Service, you’ll contract with Airbnb China except:
+when you book a Host Service outside of China; or
+when you create a Listing located outside of China; or
+you book a Listing in China with a Host who is not a resident of China,
+in which case, you are contracting with Airbnb Payments UK Ltd for that transaction.
+Under our Privacy Policy, when you contract with Airbnb China, your information will be transferred to, stored, used, and processed by Airbnb China in accordance with Chinese laws and regulations, including privacy and information disclosure laws. 
+Like hotels and all businesses operating in China, Airbnb China has to comply with these local laws and regulations. Chinese government agencies require Airbnb China to disclose host and listing information relating to China listings, and guest booking and check-in information relating to reservations in China. Similar to other hospitality companies that do business in China, Airbnb China will disclose your information to Chinese government agencies without further notice to you.
+
+If you don’t reside in China, please update the Where You Live section of your profile of your account settings."
+account_fb_google,"Depending on your privacy settings, connecting your Facebook or Google account to Airbnb allows you to see how you're connected to others on those accounts, either directly or through mutual friends. Your social accounts will also highlight your Airbnb activity, which may include your username, profile photo, and recent locations you visited, to your friends on your social accounts who are also on Airbnb.
+
+Go to Account
+Click Login & security
+Go to Social accounts, select Connect next to each account and follow the instructions
+To disconnect, follow the steps and select Disconnect next to each account you want to turn off.
+
+When you turn a Facebook or Google account off, your Airbnb account remains connected to that account. However, your Airbnb activity won't be shared with that account’s friends on Airbnb.
+
+Your public Airbnb activity, such as wishlists you've created or reviews you've written, will still be shown to other people on Airbnb.
+
+If you've enabled a Facebook or Google account but don't see any connections, it might be that your friends from that account aren't active yet on Airbnb."
+account_chg_password,"Go to Account > Login & security
+Next to Password, click Update
+Enter your current password
+Enter and confirm your new password
+Click Update password"
+account_reset_password,"Go to the reset password page
+Enter the email address you use for Airbnb
+Click Send reset link
+You'll be emailed a link to reset your password.
+
+If you’ve requested the reset link more than once, make sure you're using the right email address. You may also need to disable your email service’s link preview (EX: Outlook) or mail-scanner feature, which could cause the link to expire before you open it. If you created an Airbnb account by connecting to Facebook, Google, Apple, or using your phone number, you weren’t required to create a password. But you also have the option to log in directly by creating a password. Here’s how:
+
+Log out of your Airbnb account
+Follow the steps above to reset your password"
+account_edit,"Just click or tap your profile picture and go to Account, you’ll find:
+
+Personal info: Provide personal details and how we can reach you
+Login and security: Update your password and secure your account
+Payments and payouts: Review payments, payouts, coupons, gift cards, and taxes
+Notifications: Choose notification preferences and how you want to be contacted
+Privacy and sharing: Control connected apps, what you share, and who sees it
+Global preferences: Set your default language, currency, and time zone
+Travel for work: Add a work email for business trip benefits
+Professional hosting tools: Perfect if you manage several properties
+Invite friends: It’s more fun when everyone travels."
+account_merge,"For one reason or another, you might have more than one Airbnb account. Unfortunately, there’s no way to merge or move information or bookings between them. 
+
+Our advice? Choose the one you’d like to use going forward and deactivate or delete the other one. Any pending reservations on that account will be canceled, so be sure to wait until they’re complete before deleting it."
+account_chg_email,"Go to Account > Personal info
+Next to Email address, click Edit
+Make your changes and then click Save
+If you’re getting a notification that your email address is already in use but you can’t remember your password, try resetting it."
+account_chg_phone,"Go to Account > Personal info
+Next to Phone number, click Edit 
+Make your changes and then click Save"
+contact_emergency,"Go to Account > Personal info
+Next to Emergency contact, click Edit
+Click Add a new emergency contact
+Enter your emergency contacts details, and click Save
+You can add additional contacts, or remove an existing contact by following the steps above. Just click Remove or Add a new emergency contact."
+language_change,"Click your Profile photo > Account > Global preferences
+Next to Preferred language, click Edit
+Select your preferred language
+Click Save"
+profile_location,"Click your profile photo > Account
+Go to Profile and click Edit
+Add or change your Location
+Click Save"
+account_deactivate,"We’d hate to see you go, but if you’ve decided to leave Airbnb, you have a couple of options. You can temporarily deactivate your account, which allows you to reactivate it later, or you can permanently delete it.
+
+To submit a request for either one, visit https://www.airbnb.com/account-settings/privacy-and-sharing from a web browser (not the Airbnb app)."
+account_work_email,"Business travelers can use their regular Airbnb accounts to book business travel—all you need to do is link your work email address to your Airbnb account so we can confirm that you work for your company.
+
+If you need to switch the account your work email is linked to, or if you no longer want your accounts to be linked, follow the steps below to unlink (or relink) your work email address from your personal Airbnb account:
+
+Go to Edit Profile on airbnb.com
+Scroll down to Work Travel
+Click the X to unlink your accounts or the + Add work email to add a new work email
+Note for travel admins at companies: If you're the only travel admin for your company's account, we recommend you add another travel admin before unlinking your accounts."
+verify_identity,"Hosts may ask their guests to provide a government ID in order to book their place or experience. And sometimes we’ll ask for an ID to help us check that someone is who they say they are. Whatever the reason, your ID will never be shared with anyone else who uses Airbnb.
+
+When you’re asked to confirm your identity, you’ll need to add either your legal name and address, or submit a photo of your government ID. This could be a driver’s license, passport, identity card, or visa. If you need to come back and finish confirming your identity later, that’s fine, you can pick up where you left off.
+
+Sometimes, we’ll ask you to take a new photo of yourself. This is different from your profile photo, which you may also be asked to provide.
+
+Please be aware that completing this process isn’t an endorsement of any Host or guest, a guarantee of someone’s identity, or an assurance that interacting with them will be safe. Always use your own best judgment, and follow our safety tips for?guests?and?Hosts.
+
+In some cases, you may not need to add a government ID. We’ll confirm you’re really you when you add your legal name and address (this should match where you get banking documents or utility bills). We’ll match this information with secure third-party databases.
+
+We never share your ID with anyone else who uses Airbnb. We do not provide Hosts with the photo of your ID, the photo you take of yourself as part of ID verification, or your address.
+
+However, we do share:
+
+The first name on your ID
+Whether you’re over or under 25 years old
+Whether your ID has been successfully added
+Your profile photo and profile name"
+ID_checked,"Your security a top priority. We want you to be confident that people on Airbnb are who they say they are. One way we do that is by checking for a government ID. This could be a driver’s license, passport, identity card, or visa.
+
+Some Hosts require government ID in order for guests to book their stay or experience. Your ID will never be shared with anyone else who uses Airbnb."
+ID_submit,"By providing your identification info, you help build trust in the Airbnb community.
+
+When you’re asked to confirm your identity, you’ll need to add either your legal name and address, or a photo of a government ID (driver’s license, passport, or national identity card).?
+
+If you need to come back and finish confirming your identity later, go to identity verification to continue where you left off.
+
+Having trouble? Try these:
+Check your messages:?You may have been sent additional information via text, email, or phone. Do you think you may have missed an email? Learn why.
+Grant camera permission:?The Airbnb app or your browser may need permission to access your camera. Still not working? Try refreshing the app or page.
+Use high-quality photos: Take photos in a well-lit room, checking that your face is clear and not obscured, and fit information within the provided white lines. Using “auto” mode will allow the app to automatically take high quality photos, although you can always switch back to take photos manually. Religious head coverings are welcome, but please make sure that we can see your eyes, nose, and mouth.
+Submit photos of an original (not photocopied) and undamaged ID: If the ID has two sides, like a driver’s license or national ID card, submit photos of the front and back.
+For residents of Singapore, Hong Kong, the Netherlands, Japan, and Korea: Be sure the image of your ID doesn’t show your identification or registration number. If you're uploading a Korean national ID card or driving license, please allow only the first 6 digits to remain visible (which contain your date of birth)."
+verify_number,"Go to Account > Personal info
+Next to Phone number, click Edit then Add a phone number
+Select your country, (the country code will be added automatically)
+Enter your area code and phone number
+Click Verify and we'll send you a 4-digit code via text message (SMS)
+Enter your 4-digit code
+After verifying your phone number, you can manage text message notifications by going to Account and choosing Notifications. Standard message and data rates may apply for any calls or messages sent or received."
+verify_cn,"For all Hosts and guests in China, we provide a localized ID verification process pursuant to applicable laws and regulations:
+
+You provide your government ID number online
+We match it with a third-party database through facial recognition technology
+This also helps to reduce online fraud, build trust, and make the Airbnb community safer as a whole."
+real_fake_airbnb,"If you receive an email or are directed to a website that looks like Airbnb but asks for confidential information, be cautious. When in doubt, always start at the Airbnb home page. Type https://www.airbnb.com into your browser and go from there.
+
+A real link to Airbnb will begin with https://www.airbnb.com or a country-specific URL like https://es.airbnb.com, https://it.airbnb.com, https://www.airbnb.com.at, or https://www.airbnb.co.uk. If you click a link that takes you to a page that looks like Airbnb but doesn’t start with this address, it’s a fraudulent page and you should close it.
+
+Fraudulent emails often come from domains that may appear similar, such as @bnb.com or @reservation-airbnb.com. But legitimate emails from Airbnb will only come from the following domains:
+
+@airbnb.com
+@airbnbaction.com
+@airbnblove.com
+@airbnbmail.com
+@support-email.airbnb.com
+@supportmessaging.airbnb.com
+@airbnb.zendesk.com
+@e.airbnb.com
+@express.medallia.com
+@ext.airbnb.com
+@guest.airbnb.com
+@host.airbnb.com
+@noreply@qemailserver.com
+@outreach.airbnb.com
+@research.airbnb.com
+If it's not sent from one of these addresses, it’s not from Airbnb.
+
+
+If you believe you've encountered a web page designed to look like Airbnb, let us know by reporting the website’s URL at https://www.airbnb.com/report-phishing. This page is only for reporting suspicious websites—it doesn’t create an Airbnb help request or send you a confirmation. If you interacted with a fraudulent site or are concerned about the security of your account, contact us instead."
+login_review,"Curious about your past logins?
+Go to Account and select Login & security. Under Device history, you’ll find a list of logins to your Airbnb account, including:
+
+What browser or device
+What time
+Where it was accessed from"
+twostep_authentication,"First, go to Account settings > Personal info on a web or mobile browser and add your phone number if you haven’t already. Then:
+
+Go to Account settings > Login & Security or Personal info
+From the Set up 2-step authentication banner at the top of either page, click or tap Set up now
+Choose how you’d like to receive your one-time passcode—via text (SMS) or a phone call—and enter it when prompted
+Create a personal identification number (PIN)
+Add security questions that only you can answer
+To edit your PIN or security questions, click the Edit link."
+twostep_authentication_troubleshoot,"Your PIN and security questions
+Make sure you have a phone number on your account that can receive the verification code—if not, first follow the steps above to update your phone
+Click Edit PIN from the Login & security page of your account settings
+If you can’t remember your PIN, you may answer security questions instead by clicking the Forgot PIN? link from the Enter your PIN screen
+If you can’t remember either your PIN or security questions, you’ll need to click the Need Help link from the 2-step authentication process while attempting to update your PIN
+Be ready to update your PIN as soon as you hear back from us, which will be within 12-24 hours"
+unauthorized_access,"Think your account has been accessed without your permission? Let’s get to the bottom of it right now. Go to airbnb.com/review_your_account and follow the instructions.
+
+You may be asked to:
+
+Change your Airbnb password
+Review when you last logged into your account and confirm you recognize the devices and locations that logged in
+Check that your contact info, profile photos, listings, and payout methods haven’t been changed by someone else
+Confirm that any reservations in your account were made by you
+If anything doesn’t seem right, we’ll help you understand what changes were made and how to undo them."
+airbnblove_&open,"Sometimes we share a little AirbnbLove with Hosts and guests in the form of a unique, custom-designed gift—a little something to thank you or celebrate a special moment.   
+
+You may get an email from &Open, our partners in delight, asking for your address or the best time to receive your gift. We want to make sure you get your special treat.   
+
+The only time &Open will ask for your card details is when we’re sending you a cash gift. Cash gifts are sent by &Open through a payment service Hyperwallet, a subsidiary of PayPal. All cash gifts should be received on your card or in your bank account within 1–2 working days of being sent."
+medallia,"We love to learn, improve, and grow—and we can’t do that without hearing from our community.  
+
+That’s why you may get an email from Medallia on behalf of Airbnb seeking feedback about your experiences with us. We really appreciate when you’re able to take a few minutes to let us know how we can make your Airbnb experience amazing. 
+
+Don’t want to get this kind of email? No problem. Just click unsubscribe. We won’t take it personally!"
+stay_review,"Reviews are a great way for Hosts and guests to give each other feedback. They also help our community understand what to expect when making plans. Here’s how reviews work:
+
+Once checkout is complete, we’ll ask you to write a review and provide star ratings for your recent trip or your guest
+You have to submit your review within 14 days from the time of checkout—during that period, you may edit it until the other party submits their review
+Reviews are only posted after a) both parties have completed theirs, or b) the 14-day period has ended—whichever comes first
+You can also leave private feedback, which will only be shared with your Host or guest once the reviews are posted"
+experience_review,"After an experience ends, guests have 30 days to leave a public review, with the option to share private feedback for the Host.
+
+Keep in mind, guests can still write reviews even if they’re late, they leave early, or they didn’t attend because they couldn’t find the meeting point."
+review_write,"Requirements:
+
+1,000-word limit
+Must follow our Review Policy
+It’s important to note that you have to submit your review within 14 days from the time of checkout—after that, you can’t edit it.
+
+The best reviews are helpful ones. Think about what you’d want to know before booking a stay or welcoming someone into your place. Highlight things like:
+
+Your interactions with your guest, Host, and their associates—were they pleasant and respectful?
+Anything that made the stay special, like cleanliness, personal touches, convenience, amazing coffee
+Practical info: Was the Host helpful and available? Were you thrilled with the location? Was the listing accurate?
+You’ll also have the option to leave private feedback, which will be shared when reviews are posted. Get more detail on how reviews work for stays.
+
+If you want, you can leave private feedback to the Host or guest, which will be shared with just them when reviews are posted.
+
+You can also leave a public response to a review that someone has left for you within 30 days of its posting. While you can’t remove their review, you can report it if you think it violates our Review Policy."
+review_edit,"Go to Profile > Reviews
+Select Reviews by you
+Go to the review you’d like to edit"
+review_remove,"Once a review you’ve written has been published, you can contact us to request for it to be removed. 
+
+Did someone else write the review? Just be aware that we will only take action if it violates our Review Policy. Please note that someone who wrote a review always has the right to request that it be removed."
+review_respond,"Go to Profile > Reviews
+Click Reviews by you
+Go to the review you’d like to respond to and click Leave a Response
+Your response will be posted immediately, and you can’t edit it after that—so take your time and really think about what you want to say."
+review_cancelled,"If the host cancels a stay before the day of check-in, you won’t have the option to leave a review. Instead, an automatic review will be added to their listing’s profile to indicate that they canceled the reservation. These reviews are one of the penalties for host cancellations and can’t be removed.
+
+If the host cancels a stay on or after the day of check-in (12:00 AM in the listing’s timezone), you will have the option to leave a review. If you choose to leave a review, be sure to follow our Review Policy and only rate and comment on relevant experiences which you can personally speak to. For example, you may have valuable feedback about poor communication, an issue at check-in, or difficulty getting to a listing. However, if you didn’t complete check-in, you may not have relevant feedback about the location, amenities, or value."
+safety_unsafe,"If there’s an emergency, or if your personal safety is threatened while traveling, contact local police or emergency services immediately. You can also:
+
+Contact Airbnb to report the issue; we’re here 24/7. Read more about how to contact us directly in our Help Center.
+Read our safety tips before you start your trip to help you travel with confidence"
+safety_location,"You're pretty excited to make a reservation for a place to stay, but now you’re having second thoughts about the location.
+
+First step, read everything the Host has posted in their listing description, such as the amenities, house rules, and guidebook, if they have one.
+
+Still concerned??Contact your Host to learn more about the neighborhood. Top tip: check out the Host’s cancellation policy before booking.
+
+If current events or political strife create an unsafe situation, you may be eligible for a full refund if you cancel due to extenuating circumstances."
+experience_injury,"Your safety is a top priority. If you’re injured or require medical attention during an Experience, get yourself to a safe place and contact local emergency services immediately. 
+
+Once you’re safe and your immediate concerns have been addressed, report the incident to us. The fastest way is to use your Airbnb app, tap your Profile and select Get help, then tap Contact us under your trip."
